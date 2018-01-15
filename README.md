@@ -1,2 +1,2 @@
 # EGB
-Repository Containing Materials For Economics of Global Business
+Course Website for Economics of Global Business
