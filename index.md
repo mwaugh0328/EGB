@@ -8,7 +8,7 @@ The Economics of Global Business is an intermediate level course in macroeconomi
 
 **Where and When:** | TISCH UC24 | Monday and Wednesday 9:30AM - 10:45AM
 
-**Important Resources** | Syllabus | The Blog
+**Important Resources** | Syllabus | [The Blog](egb_blog.md)
 
 ## Week by Week Schedule
 
