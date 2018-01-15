@@ -111,9 +111,10 @@ Read/Do for class:
 Read/Do for class:
   - Review, Finish up on 4/5
   -
+
 ---
 
-### Week # 12 4/16 - 4/18
+### Week # 12: 4/16 - 4/18
 
 **Money and Banking**
 
@@ -123,25 +124,26 @@ Read/Do for class:
 
 ---
 
-### Week # 13 4/23-4/25
+### Week # 13: 4/23-4/25
 
 **Intro to Business Cycles and Aggregate Demand and Supply**
 
 Read/Do for class:
   - Chapter 10 (Mankiw)
   - Slides
+
+
 ---
 
-### Week # 14 4/30-5/2
+### Week # 14: 4/30-5/2
 
 **Exchange Rates**
 
 Read/Do for class:
-  -
   - Slides
 
 ---
-### Week # 15 5/7
+### Week # 15: 5/7
 
 **Finish up Exchange Rates**
 
