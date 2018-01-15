@@ -28,8 +28,8 @@ Read/Do for class:
 **Measurement of GDP. Real vs. Nominal. Measuring labor market performance.**
 
 Read/Do for class:
-  - Syllabus, Chapter 1 from Mankiw.
-  - Introduction Slides
+  - Chapter 2, from Mankiw.
+  - Slides
 
 ---
 
@@ -37,8 +37,8 @@ Read/Do for class:
 **The aggregate production function and national income. Marginal products and factor prices.**
 
 Read/Do for class:
-  - Syllabus, Chapter 1 from Mankiw.
-  - Introduction Slides
+  - Chapter 3 from Mankiw
+  - Slides
 
 ---
 ### Week # 4: 2/12-2/14
@@ -54,8 +54,8 @@ Read/Do for class:
 **Using the production function to understand growth.**
 
 Read/Do for class:
-  - Syllabus, Chapter 1 from Mankiw.
-  - Introduction Slides
+  - Appendix of Chapter 9 "Accounting for the Sources of Economic Growth"
+  - Slides
 
 ---
 
@@ -64,64 +64,90 @@ Read/Do for class:
 **Understanding economic growth**
 
 Read/Do for class:
-  - Syllabus, Chapter 1 from Mankiw.
-  - Introduction Slides
+  - Chapter 9 (Only Sections 9-2 and 9-3)
+  - Slides
 
 ---
 
 ### Week # 7: 3/5, **Midterm on 3/7**
 Read/Do for class:
-  - Review / finish up on 3/5
+  - Review
   - **Midterm on 3/7**
 
 ---
 
-### Week # 8
+### Week # 8: 3/19 - 3/21
+
+**Intro to Trade. Trade, technology, and the Ricardian Model.**
+
 Read/Do for class:
-  - Syllabus, Chapter 1 from Mankiw.
-  - Introduction Slides
+  - Notes from Stern
+  - Slides
 
 ---
 
-### Week # 9
+### Week # 9: 3/26 - 3/28
+
+**Firms in International Trade**
+
 Read/Do for class:
-  - Syllabus, Chapter 1 from Mankiw.
-  - Introduction Slides
+  - Notes from Stern
+  - Slides
 
 ---
 
-### Week # 10
+### Week # 10: 4/2- 4/4
+
+**Trade Imbalances and Capital Flows**
+
 Read/Do for class:
-  - Syllabus, Chapter 1 from Mankiw.
-  - Introduction Slides
+  - Mankiw Chapter 6 (Only Sections 6-1 and 6-2)
+  - Slides
 
 ---
 
-### Week # 11
+### Week # 11: 4/9, **Midterm on 4/11**
+
 Read/Do for class:
-  - Syllabus, Chapter 1 from Mankiw.
-  - Introduction Slides
+  - Review, Finish up on 4/5
+  -
 ---
 
-### Week # 12
-Read/Do for class:
-  - Syllabus, Chapter 1 from Mankiw.
-  - Introduction Slides
----
+### Week # 12 4/16 - 4/18
 
-### Week # 13
-Read/Do for class:
-  - Syllabus, Chapter 1 from Mankiw.
-  - Introduction Slides
----
+**Money and Banking**
 
-### Week # 14
 Read/Do for class:
-  - Syllabus, Chapter 1 from Mankiw.
-  - Introduction Slides
+  - Chapter 4
+  - Slides
 
 ---
-### Week # 15
+
+### Week # 13 4/23-4/25
+
+**Intro to Business Cycles and Aggregate Demand and Supply**
+
 Read/Do for class:
-  - Syllabus, Chapter 1 from Mankiw.
-  - Introduction Slides
+  - Chapter 10 (Mankiw)
+  - Slides
+---
+
+### Week # 14 4/30-5/2
+
+**Exchange Rates**
+
+Read/Do for class:
+  -
+  - Slides
+
+---
+### Week # 15 5/7
+
+**Finish up Exchange Rates**
+
+Read/Do for class:
+  - Slides
+
+---
+
+## Final: on 5/11
