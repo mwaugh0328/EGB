@@ -4,7 +4,7 @@ The Economics of Global Business is an intermediate level course in macroeconomi
 
 **What:** NYU-Stern, ECON-UB.0011.02. Spring 2018.
 
-**Who:** Professor [Michael Waugh](www.waugheconomics.com).
+**Who:** Professor [Michael Waugh](https://www.waugheconomics.com).
 - Email: [mwaugh@stern.nyu.edu](mailto:mwaugh@stern.nyu.edu).
 - Office: KMC 7-74.
 
