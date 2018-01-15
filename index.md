@@ -8,6 +8,8 @@ The Economics of Global Business is an intermediate level course in macroeconomi
 
 **Where and When:** | TISCH UC24 | Monday and Wednesday 9:30AM - 10:45AM
 
+**Important Resources** | Syllabus | The Blog
+
 ## Week by Week Schedule
 
 ---
@@ -18,6 +20,7 @@ The Economics of Global Business is an intermediate level course in macroeconomi
 Read/Do for class:
   - Syllabus, Chapter 1 from Mankiw.
   - Introduction Slides
+  - Online Survey
 
 ---
 
@@ -79,33 +82,39 @@ Read/Do for class:
   - Introduction Slides
 
 ---
+
 ### Week # 9
 Read/Do for class:
   - Syllabus, Chapter 1 from Mankiw.
   - Introduction Slides
 
 ---
+
 ### Week # 10
 Read/Do for class:
   - Syllabus, Chapter 1 from Mankiw.
   - Introduction Slides
 
 ---
+
 ### Week # 11
 Read/Do for class:
   - Syllabus, Chapter 1 from Mankiw.
   - Introduction Slides
 ---
+
 ### Week # 12
 Read/Do for class:
   - Syllabus, Chapter 1 from Mankiw.
   - Introduction Slides
 ---
+
 ### Week # 13
 Read/Do for class:
   - Syllabus, Chapter 1 from Mankiw.
   - Introduction Slides
 ---
+
 ### Week # 14
 Read/Do for class:
   - Syllabus, Chapter 1 from Mankiw.
