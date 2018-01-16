@@ -24,7 +24,7 @@ The Economics of Global Business is an intermediate level course in macroeconomi
 
 Read/Do for class: 1/22
   - [Syllabus](https://github.com/mwaugh0328/EGB/raw/master/materials/syllabus/syllabus_waugh_egb_spring_2018.pdf) , Chapter 1 from Mankiw.
-  - Introduction Slides
+  - [Introduction Slides](https://github.com/mwaugh0328/EGB/raw/master/materials/intro/week1.intro_egb.pdf)
   - [Online Survey](https://goo.gl/forms/SHPrtRM5rBcKXtUj2)
 
 Read/Do for class: 1/24
