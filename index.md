@@ -28,8 +28,8 @@ Read/Do for class: 1/22
   - [Online Survey](https://goo.gl/forms/SHPrtRM5rBcKXtUj2)
 
 Read/Do for class: 1/24
-  - Chapter 2, from Mankiw.
-  - Slides
+  - Chapter 2, Mankiw.
+  - [Slides](https://github.com/mwaugh0328/EGB/raw/master/materials/measurement/week1.measurement_egb.pdf)
 
 ---
 
@@ -37,8 +37,8 @@ Read/Do for class: 1/24
 **Real vs. Nominal. Measuring labor market performance.**
 
 Read/Do for class:
-  - Chapter 2, from Mankiw.
-  - Slides
+  - Chapter 2, Mankiw.
+  - [Slides](https://github.com/mwaugh0328/EGB/raw/master/materials/measurement/week1.measurement_egb.pdf)
 
 ---
 
