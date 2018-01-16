@@ -20,17 +20,21 @@ The Economics of Global Business is an intermediate level course in macroeconomi
 ---
 
 ### Week # 1:  1/22-1/24
-**Introduction and overview.**
+**Introduction and overview. Measurement of GDP.**
 
-Read/Do for class:
+Read/Do for class: 1/22
   - [Syllabus](https://github.com/mwaugh0328/EGB/raw/master/materials/syllabus_waugh_egb_spring_2018.pdf) , Chapter 1 from Mankiw.
   - Introduction Slides
   - [Online Survey](https://goo.gl/forms/SHPrtRM5rBcKXtUj2)
 
+Read/Do for class: 1/24
+  - Chapter 2, from Mankiw.
+  - Slides
+
 ---
 
 ### Week # 2: 1/29-1/31
-**Measurement of GDP. Real vs. Nominal. Measuring labor market performance.**
+**Real vs. Nominal. Measuring labor market performance.**
 
 Read/Do for class:
   - Chapter 2, from Mankiw.
