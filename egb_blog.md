@@ -2,6 +2,22 @@
 
 ---
 
+**What we did today 1/22...**
+
+After each class meeting, I will try and provide a brief summary of what we did each day...here it is!
+
+We talked about what kinds of topics we will cover, I discussed important course details covered on the syllabus. And I introduced myself to you. Very great first day.
+
+A couple of things to follow up on if you have not done so already.
+
+**Read the [Syllabus](https://github.com/mwaugh0328/EGB/raw/master/materials/syllabus/syllabus_waugh_egb_spring_2018.pdf).**
+
+**[Take the online survey](https://goo.gl/forms/SHPrtRM5rBcKXtUj2).** The link is here:
+
+https://goo.gl/forms/SHPrtRM5rBcKXtUj2
+
+---
+
 **Welcome to The Economics of Global Business!**
 
 In a week we will have our first meeting and get the semester started. I want to reach out to you about some features of this course to help you prepare for the semester ahead.
