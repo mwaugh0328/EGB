@@ -30,6 +30,7 @@ Read/Do for class: 1/22
 Read/Do for class: 1/24
   - Chapter 2, Mankiw.
   - [Slides](https://github.com/mwaugh0328/EGB/raw/master/materials/measurement/week1.measurement_egb.pdf)
+  - [In class Example: Measuring GDP](https://github.com/mwaugh0328/EGB/raw/master/materials/measurement/inclass_gdp.pdf)
 
 ---
 
