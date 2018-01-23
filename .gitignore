@@ -220,4 +220,5 @@ TSWLatexianTemp*
 *-tags.tex
 
 #
-*.ipynb_chekpoints/*
+*.ipynb_checkpoints/*
+*.ipynb_checkpoints/
