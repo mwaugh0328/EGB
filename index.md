@@ -49,6 +49,7 @@ Read/Do for class:
 Read/Do for class:
   - Chapter 3 from Mankiw
   - [Slides](https://github.com/mwaugh0328/EGB/raw/master/materials/week2/week2.national_income.pdf)
+  - [Problem Set #1 Due Friday 2/9, 5pm]
 
 ---
 ### Week # 4: 2/12-2/14
