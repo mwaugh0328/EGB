@@ -38,27 +38,43 @@ Read/Do for class: 1/24
 ### Week # 2: 1/29-1/31
 **Real vs. Nominal. Measuring labor market performance.**
 
-Read/Do for class:
+Read/Do for class 1/29:
   - Chapter 2, Mankiw.
   - [Slides](https://github.com/mwaugh0328/EGB/raw/master/materials/measurement/week1.measurement_egb.pdf)
+  - [Problem Set #1](https://github.com/mwaugh0328/EGB/raw/master/materials/problem_sets/egb.ps1.pdf) **Due Friday 2/9, 5pm**
 
+**The aggregate production function and national income.**
+
+Read/Do for class 1/31
+  - Chapter 3 from Mankiw
+  - [Slides](https://github.com/mwaugh0328/EGB/raw/master/materials/week2/week2.national_income.pdf)
 ---
 
 ### Week # 3: 2/5-2/7
-**The aggregate production function and national income. Marginal products and factor prices.**
 
-Read/Do for class:
+**Marginal products and factor prices.**
+
+Read/Do for class 2/5:
   - Chapter 3 from Mankiw
   - [Slides](https://github.com/mwaugh0328/EGB/raw/master/materials/week2/week2.national_income.pdf)
-  - [Problem Set #1](https://github.com/mwaugh0328/EGB/raw/master/materials/problem_sets/egb.ps1.pdf) **Due Friday 2/9, 5pm**
+  - In class exercise
 
----
-### Week # 4: 2/12-2/14
 **Demand Side of National Income**
 
 Read/Do for class:
-    - Syllabus, Chapter 1 from Mankiw.
-    - Introduction Slides
+  - Chapter 3 from Mankiw
+  - [Demand Side Slides]
+
+---
+### Week # 4: 2/12-2/14
+**Finish up Demand Side of National Income**
+
+Read/Do for class 2/12:
+  - In class exercise
+
+**Long Run Economic Growth**
+
+Read/Do for class 2/14:
 
 ---
 
