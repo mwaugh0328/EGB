@@ -1,5 +1,13 @@
 # The EGB BLOG
 
+**What we did today 1/24...**
+
+Great class! We talked through two key things:
+ - [Computing growth rates](https://github.com/mwaugh0328/EGB/raw/master/materials/measurement/notes_growth_rates.pdf), we will most always use continuously compounded growth rates, i.e. take the difference of the natural logarithm. For us there are two important properties, average growth rates over time are easy to compute and interpret, and multiplicative values (e.g. P*Q) can be easily decomposed into their individual components.
+ - GDP. We focused on the key idea that it reflects, value added, income, and then final sales...and they all must equal each other.
+
+ Next class, we work through measuring GDP in a more [complicated example](https://github.com/mwaugh0328/EGB/raw/master/materials/measurement/inclass_gdp.pdf).
+
 ---
 
 **What we did today 1/22...**
