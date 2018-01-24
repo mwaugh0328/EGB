@@ -48,6 +48,8 @@ Read/Do for class 1/29:
 Read/Do for class 1/31
   - Chapter 3 from Mankiw
   - [Slides](https://github.com/mwaugh0328/EGB/raw/master/materials/week2/week2.national_income.pdf)
+
+
 ---
 
 ### Week # 3: 2/5-2/7
@@ -66,6 +68,7 @@ Read/Do for class:
   - [Demand Side Slides]
 
 ---
+
 ### Week # 4: 2/12-2/14
 **Finish up Demand Side of National Income**
 
