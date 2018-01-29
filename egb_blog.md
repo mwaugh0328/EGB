@@ -1,5 +1,22 @@
 # The EGB BLOG
 
+---
+
+**What we did today 1/29...**
+
+Great conversation today, lots of questions. We talked more about measurement of GDP and started the in class example. Some key aspects:
+
+* GDP = Value Added = Sales - material input costs. Key thing here is to reflect on the word...value added, this is how much value the Firm/Production unit, etc. ADDS!
+
+* GDP = Payments to Labor and Capital. Well who created the value added, what did they get paid for doing so...the value added gets paid out to the workers and capital owners who created the value added. Not this concept must always match up with the value added concept above.
+
+* GDP = Final Sales. Despite its ubiquity, this is the trickiest concept. Just look at the final sale (to consumers or firms for use in capital goods). That is all the value added in the economy. Why, that sale embeds all the value added to create the product/service/etc.
+
+Next class, finish up GDP. Talk about real vs. nominal. Labor market performance measures.
+
+
+---
+
 **Some thoughts on the Dollar...**
 
 This last week there was a lot of news about the current administrations conflicting views on the US Dollar. But this minor relative to the larger story about the dollar...its systematic weakening for much of 2017 and into 2018. All after an unprecedented appreciation of the dollar from about 2011-the start of 2017. Ok, what gives...this is why we are here in EGB to be able to think through this systematically!
