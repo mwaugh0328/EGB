@@ -8,7 +8,7 @@ Here are two nice articles about the Dollar. One is from the [FT's Gavin Davies 
 
 * First, reflect on how much you DON'T understand. Its ok, that's why we are here, but by the end of the semester we will revisit this.
 
-* Second, both are pointing to the following...expectations of monetary policy in EU are forecasting tighter conditions. Asset returns elsewhere in the globe are expected to be high...WHY? Its all about growth in the EU (in particular) and elsewhere.<br> Why do I point this out, many of the things we read and discussed about at the end of the day are about economic growth. And that's why we work on this first. Then as the semester progresses we will be able to work backwards and see how these stories behind dollar weakness make a lot of sense.  
+* Second, both are pointing to the following...expectations of monetary policy in EU are forecasting tighter conditions. Asset returns elsewhere in the globe are expected to be high...WHY? Its all about growth in the EU (in particular) and elsewhere.<br><br> Why do I point this out, many of the things we read and discussed about at the end of the day are about economic growth. And that's why we work on this first. Then as the semester progresses we will be able to work backwards and see how these stories behind dollar weakness make a lot of sense.  
 
 ---
 
