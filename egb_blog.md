@@ -1,5 +1,17 @@
 # The EGB BLOG
 
+**Some thoughts on the Dollar...**
+
+This last week there was a lot of news about the current administrations conflicting views on the US Dollar. But this minor relative to the larger story about the dollar...its systematic weakening for much of 2017 and into 2018. All after an unprecedented appreciation of the dollar from about 2011-the start of 2017. Ok, what gives...this is why we are here in EGB to be able to think through this systematically!
+
+Here are two nice articles about the Dollar. One is from the [FT's Gavin Davies (this should be free to Stern students)](https://www.ft.com/content/0a4f1c98-02ab-11e8-9650-9c0ad2d7c5b5) and [another from the WSJ](https://www.wsj.com/articles/investor-thirst-for-foreign-stocks-may-be-speeding-dollars-decline-1517157713). A couple of things:
+
+* First, reflect on how much you DON'T understand. Its ok, that's why we are here, but by the end of the semester we will revisit this.
+
+* Second, both are pointing to the following...expectations of monetary policy in EU are forecasting tighter conditions. Asset returns elsewhere in the globe are expected to be high...WHY? Its all about growth in the EU (in particular) and elsewhere.<br> Why do I point this out, many of the things we read and discussed about at the end of the day are about economic growth. And that's why we work on this first. Then as the semester progresses we will be able to work backwards and see how these stories behind dollar weakness make a lot of sense.  
+
+---
+
 **What we did today 1/24...**
 
 Great class! We talked through two key things:
