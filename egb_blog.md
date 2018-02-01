@@ -4,7 +4,7 @@
 
 **What we did today 1/31...**
 
-We finished up the GDP example. Solutions are posted here. We then talked about measuring real GDP and inflation.
+We finished up the GDP example. Solutions are [posted here](https://github.com/mwaugh0328/EGB/raw/master/materials/measurement/inclass_gdp_solutions.pdf). We then talked about measuring real GDP and inflation.
 
 * Basic idea for real GDP, fix prices in some base year, then evaluate quantities over time (or space) at those fixed prices. This is real in the sense that only quantities are changing.
 
@@ -12,7 +12,7 @@ We finished up the GDP example. Solutions are posted here. We then talked about 
 
 * We talked about the population, labor force, unemployed, etc. Two measures we care about are the unemployment rate (unemployed / labor force) and participation rate ( labor force / population).  
 
-Finally, reminder. Problem set #1 is due NEXT FRIDAY, Feb 9th. 
+Finally, reminder. Problem set #1 is due NEXT FRIDAY, Feb 9th.
 
 ---
 
