@@ -2,6 +2,20 @@
 
 ---
 
+**What we did today 1/31...**
+
+We finished up the GDP example. Solutions are posted here. We then talked about measuring real GDP and inflation.
+
+* Basic idea for real GDP, fix prices in some base year, then evaluate quantities over time (or space) at those fixed prices. This is real in the sense that only quantities are changing.
+
+* Please look at the slides and discussion on the CPI. Its the opposite idea, fix quantities, then trace out how prices change.
+
+* We talked about the population, labor force, unemployed, etc. Two measures we care about are the unemployment rate (unemployed / labor force) and participation rate ( labor force / population).  
+
+Finally, reminder. Problem set #1 is due NEXT FRIDAY, Feb 9th. 
+
+---
+
 **What we did today 1/29...**
 
 Great conversation today, lots of questions. We talked more about measurement of GDP and started the in class example. Some key aspects:
