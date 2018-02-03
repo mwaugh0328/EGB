@@ -43,18 +43,11 @@ Read/Do for class 1/29:
   - [Slides](https://github.com/mwaugh0328/EGB/raw/master/materials/measurement/week1.measurement_egb.pdf)
   - [Problem Set #1](https://github.com/mwaugh0328/EGB/raw/master/materials/problem_sets/egb.ps1.pdf) **Due Friday 2/9, 5pm**
 
-**The aggregate production function and national income.**
-
-Read/Do for class 1/31
-  - Chapter 3 from Mankiw
-  - [Slides](https://github.com/mwaugh0328/EGB/raw/master/materials/week2/week2.national_income.pdf)
-
-
 ---
 
 ### Week # 3: 2/5-2/7
 
-**Marginal products and factor prices.**
+**The aggregate production function and national income. Marginal products and factor prices.**
 
 Read/Do for class 2/5:
   - Chapter 3 from Mankiw
