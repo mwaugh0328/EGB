@@ -62,7 +62,7 @@ Read/Do for class 2/5:
 
 Read/Do for class:
   - Chapter 3 from Mankiw
-  - [Demand Side Slides]
+  - [Demand Side Slides](https://github.com/mwaugh0328/EGB/raw/master/materials/week3/week3.national_income_demand.pdf)
 
 ---
 
@@ -70,6 +70,7 @@ Read/Do for class:
 **Finish up Demand Side of National Income**
 
 Read/Do for class 2/12:
+  - [Demand Side Slides](https://github.com/mwaugh0328/EGB/raw/master/materials/week3/week3.national_income_demand.pdf)
   - In class exercise
 
 **Long Run Economic Growth**
