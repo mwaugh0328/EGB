@@ -49,7 +49,7 @@ Read/Do for class 1/29:
 
 **Online Quiz: Must Complete by Friday 2/9**
 
-https://goo.gl/forms/pwmFpKh79MeXfZXZ2
+[https://goo.gl/forms/pwmFpKh79MeXfZXZ2](https://goo.gl/forms/pwmFpKh79MeXfZXZ2)
 
 **The aggregate production function and national income. Marginal products and factor prices.**
 
