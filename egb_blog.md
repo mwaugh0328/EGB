@@ -1,5 +1,17 @@
 # The EGB BLOG
 
+**What we did today 2/05...**
+
+We talked about where value added comes from---the production function. Some properties of the production function: (1) More inputs lead to more outputs (2) Diminishing marginal products and (2) Constant returns to scale.
+
+Then we started talking about payments to income. A key result was that the marginal product of labor equals the real wage. This is providing a theory of the real price paid to labor...why does somebody get paid a lot, well their marginal product must be high!
+
+With the cobb-Douglas production function, it turns out that the marginal product will be proportional to its average product. Wags should be tied to labor productivity.
+
+Finally, reminder. Problem set #1 is due THIS FRIDAY, Feb 9th. [Online quiz](https://goo.gl/forms/pwmFpKh79MeXfZXZ2) due this FRIDAY (Feb 9th) as well.
+
+Update on my office hours: After class 11-12 and then 1-2 on Monday and Wednesday.
+
 ---
 
 **What we did today 1/31...**
