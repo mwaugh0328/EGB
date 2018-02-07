@@ -2,7 +2,7 @@
 
 **What we did today 2/05...**
 
-We talked about where value added comes from---the production function. Some properties of the production function: (1) More inputs lead to more outputs (2) Diminishing marginal products and (2) Constant returns to scale.
+We talked about where value added comes from---the production function. Some properties of the production function: (1) More inputs lead to more outputs (2) Diminishing marginal products and (2) Constant returns to scale. We will focus most the course on [Cobb-Douglas production function](https://en.wikipedia.org/wiki/Cobb%E2%80%93Douglas_production_function). 
 
 Then we started talking about payments to income. A key result was that the marginal product of labor equals the real wage. This is providing a theory of the real price paid to labor...why does somebody get paid a lot, well their marginal product must be high!
 
