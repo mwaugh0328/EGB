@@ -58,7 +58,7 @@ Read/Do for class 2/5:
   - [Slides](https://github.com/mwaugh0328/EGB/raw/master/materials/week2/week2.national_income.pdf)
 
 
-**Demand Side of National Income**
+**Finish up marginal products and factor prices.**
 
 Read/Do for class:
   - Chapter 3 from Mankiw
@@ -67,7 +67,7 @@ Read/Do for class:
 ---
 
 ### Week # 4: 2/12-2/14
-**Finish up Demand Side of National Income**
+**Demand Side of National Income**
 
 Read/Do for class 2/12:
   - [Demand Side Slides](https://github.com/mwaugh0328/EGB/raw/master/materials/week3/week3.national_income_demand.pdf)
