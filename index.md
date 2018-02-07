@@ -58,7 +58,7 @@ Read/Do for class 2/5:
   - [Slides](https://github.com/mwaugh0328/EGB/raw/master/materials/week2/week2.national_income.pdf)
 
 
-**Finish up marginal products and factor prices.**
+** 2/8 Finish up marginal products and factor prices.**
 
 Read/Do for class:
   - Chapter 3 from Mankiw
