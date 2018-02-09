@@ -1,8 +1,18 @@
 # The EGB BLOG
 
+**What we did today 2/07...**
+
+Reviewed the production function, talked through marginal products of labor and then capital. Then the marginal products represendted the "demand" curve for labor and capital by the firm, the economies equilibrium wage rate is where the demand for labor and capital equal the supply of labor and capital. This pins down the real wage for labor and real rental rate for capital.
+
+Finally, we talked through the first part of the [in class example](https://github.com/mwaugh0328/EGB/raw/master/materials/week2/week2.egb_inclass_mpl.pdf) on immigration. We will continue to work on this next class. [Solutions here](https://github.com/mwaugh0328/EGB/raw/master/materials/week2/week2.egb_solutions_inclass_mpl.pdf).
+
+Problem set #1 is due THIS FRIDAY, Feb 9th. [Online quiz](https://goo.gl/forms/pwmFpKh79MeXfZXZ2) due this FRIDAY (Feb 9th) as well.
+
+---
+
 **What we did today 2/05...**
 
-We talked about where value added comes from---the production function. Some properties of the production function: (1) More inputs lead to more outputs (2) Diminishing marginal products and (2) Constant returns to scale. We will focus most the course on [Cobb-Douglas production function](https://en.wikipedia.org/wiki/Cobb%E2%80%93Douglas_production_function). 
+We talked about where value added comes from---the production function. Some properties of the production function: (1) More inputs lead to more outputs (2) Diminishing marginal products and (2) Constant returns to scale. We will focus most the course on [Cobb-Douglas production function](https://en.wikipedia.org/wiki/Cobb%E2%80%93Douglas_production_function).
 
 Then we started talking about payments to income. A key result was that the marginal product of labor equals the real wage. This is providing a theory of the real price paid to labor...why does somebody get paid a lot, well their marginal product must be high!
 
