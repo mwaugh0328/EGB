@@ -2,6 +2,14 @@
 
 **What we did today 2/07...**
 
+Finished up talking through the [in class example](https://github.com/mwaugh0328/EGB/raw/master/materials/week2/week2.egb_inclass_mpl.pdf) [Solutions here](https://github.com/mwaugh0328/EGB/raw/master/materials/week2/week2.egb_solutions_inclass_mpl.pdf).
+
+Next class will talk about the "demand side", specifically the consumption funciton, investment function and how the real interest rate equilibrates everything. This will open up the door to thinking about how recent changes in taxes and government spending will affect interest rates.
+
+---
+
+**What we did today 2/07...**
+
 Reviewed the production function, talked through marginal products of labor and then capital. Then the marginal products represendted the "demand" curve for labor and capital by the firm, the economies equilibrium wage rate is where the demand for labor and capital equal the supply of labor and capital. This pins down the real wage for labor and real rental rate for capital.
 
 Finally, we talked through the first part of the [in class example](https://github.com/mwaugh0328/EGB/raw/master/materials/week2/week2.egb_inclass_mpl.pdf) on immigration. We will continue to work on this next class. [Solutions here](https://github.com/mwaugh0328/EGB/raw/master/materials/week2/week2.egb_solutions_inclass_mpl.pdf).
