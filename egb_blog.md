@@ -1,6 +1,17 @@
 # The EGB BLOG
 
-**What we did today 2/07...**
+
+**What we did today 2/14...**
+
+Talked about the demand side (consumption function and investment function). Then how an equilibrium is the real interest rate that makes production equal to demand. Or most interesting, makes national savings = investment. Then talked through two examples
+
+- Increase in government spending reduces national savings, "crowds out" private investment and increases real interest rates.
+
+- [Talked though a deficit neutral tax cut](https://github.com/mwaugh0328/EGB/raw/master/materials/week3/week3.egb_inclass_taxes.pdf)...this lowers the tax burden on households increasing national savings, increases investment and decreases real interest rates. [Solutions to the in class exercise are here](https://github.com/mwaugh0328/EGB/raw/master/materials/week3/egb.trump_inclass_solutions.pdf).  
+
+---
+
+**What we did today 2/12...**
 
 Finished up talking through the [in class example](https://github.com/mwaugh0328/EGB/raw/master/materials/week2/week2.egb_inclass_mpl.pdf) [Solutions here](https://github.com/mwaugh0328/EGB/raw/master/materials/week2/week2.egb_solutions_inclass_mpl.pdf).
 
