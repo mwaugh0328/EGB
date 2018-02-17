@@ -71,11 +71,10 @@ Read/Do for class:
 
 Read/Do for class 2/12:
   - [Demand Side Slides](https://github.com/mwaugh0328/EGB/raw/master/materials/week3/week3.national_income_demand.pdf)
-  - In class exercise
 
-**Long Run Economic Growth**
 
 Read/Do for class 2/14:
+  - [In class exercise](https://github.com/mwaugh0328/EGB/raw/master/materials/week3/egb.trump_inclass_solutions.pdf)
 
 ---
 
@@ -84,7 +83,7 @@ Read/Do for class 2/14:
 
 Read/Do for class:
   - Appendix of Chapter 9 "Accounting for the Sources of Economic Growth"
-  - Slides
+  - [Slides](https://github.com/mwaugh0328/EGB/raw/master/materials/week4/week4.accounting_growth.pdf)
 
 ---
 
@@ -94,7 +93,7 @@ Read/Do for class:
 
 Read/Do for class:
   - Chapter 9 (Only Sections 9-2 and 9-3)
-  - Slides
+  - [Slides](https://github.com/mwaugh0328/EGB/raw/master/materials/week5/week5.balanced_growth.pdf)
 
 ---
 
