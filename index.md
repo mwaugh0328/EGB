@@ -63,6 +63,7 @@ Read/Do for class 2/5:
 Read/Do for class:
   - Chapter 3 from Mankiw
   - [In class exercise](https://github.com/mwaugh0328/EGB/raw/master/materials/week2/week2.egb_inclass_mpl.pdf)
+  - [Solutions here](https://github.com/mwaugh0328/EGB/raw/master/materials/week2/week2.egb_solutions_inclass_mpl.pdf).
 
 ---
 
@@ -75,7 +76,7 @@ Read/Do for class 2/12:
 
 Read/Do for class 2/14:
   - [In class exercise](https://github.com/mwaugh0328/EGB/raw/master/materials/week3/egb.trump_inclass_solutions.pdf)
-  - [Solutions here]((https://github.com/mwaugh0328/EGB/raw/master/materials/week3/egb.trump_m1_solutions.pdf))
+  - [Solutions here](https://github.com/mwaugh0328/EGB/raw/master/materials/week3/egb.trump_m1_solutions.pdf)
 
 ---
 
