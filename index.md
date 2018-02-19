@@ -88,6 +88,10 @@ Read/Do for class:
   - Appendix of Chapter 9 "Accounting for the Sources of Economic Growth"
   - [Slides](https://github.com/mwaugh0328/EGB/raw/master/materials/week4/week4.accounting_growth.pdf)
 
+**Quiz on Chapter 3** Complete by end of day Friday (2/23). Link here:
+
+[https://goo.gl/forms/qsPe9cweQEvIdcPv1](https://goo.gl/forms/qsPe9cweQEvIdcPv1)
+
 ---
 
 ### Week # 6: 2/26-2/28

@@ -1,5 +1,14 @@
 # The EGB BLOG
 
+**Happy Presidents Day**
+
+We had today off, but I wanted to highligh two things:
+
+- First, we are finishing up Chapter 3. The solutions to the in class exercises are posted for you to review as you study up on Chapter 3.
+
+- Second, we will have a quiz to cover this material. Same deal as last time, complete it by the end of this week. Link to the quiz is here: [https://goo.gl/forms/qsPe9cweQEvIdcPv1](https://goo.gl/forms/qsPe9cweQEvIdcPv1)
+
+---
 
 **What we did today 2/14...**
 
