@@ -101,7 +101,7 @@ Read/Do for class:
 Read/Do for class:
   - Chapter 9 (Only Sections 9-2 and 9-3)
   - [Slides](https://github.com/mwaugh0328/EGB/raw/master/materials/week5/week5.balanced_growth.pdf)
-  - [Problem Set #2](https://github.com/mwaugh0328/EGB/raw/master/materials/problem_sets/egb.ps2.pdf) [Data set](https://github.com/mwaugh0328/EGB/raw/master/materials/problem_sets/ps2_data.xlsx) **Due Friday 3/2, 5pm**
+  - [Problem Set #2](https://github.com/mwaugh0328/EGB/raw/master/materials/problem_sets/egb.ps2.pdf)    --- [Data set](https://github.com/mwaugh0328/EGB/raw/master/materials/problem_sets/ps2_data.xlsx) --- **Due Friday 3/2, 5pm**
 
 ---
 
