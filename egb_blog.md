@@ -1,8 +1,16 @@
 # The EGB BLOG
 
+**What we did today...2/21**
+
+We finished up chapter 3. And the in class trump exercise. [Solutions here](https://github.com/mwaugh0328/EGB/raw/master/materials/week3/egb.trump_m1_solutions.pdf).
+
+We then talked about economic growth, [looked at gap minder](https://www.gapminder.org/tools/#_chart-type=bubbles), and started to talked accounting for economic growth. 
+
+---
+
 **Happy Presidents Day**
 
-We had today off, but I wanted to highligh two things:
+We had today off, but I wanted to highlight two things:
 
 - First, we are finishing up Chapter 3. The solutions to the in class exercises are posted for you to review as you study up on Chapter 3.
 
