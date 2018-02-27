@@ -1,10 +1,20 @@
 # The EGB BLOG
 
+**Practice Exams**
+
+Here they are:
+
+- [Spring 2016](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/midterm1_egb_spring16.pdf)
+
+- [Fall 2016](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/midterm1_egb_fall16_A.pdf)
+
+---
+
 **What we did today...2/21**
 
 We finished up chapter 3. And the in class trump exercise. [Solutions here](https://github.com/mwaugh0328/EGB/raw/master/materials/week3/egb.trump_m1_solutions.pdf).
 
-We then talked about economic growth, [looked at gap minder](https://www.gapminder.org/tools/#_chart-type=bubbles), and started to talked accounting for economic growth. 
+We then talked about economic growth, [looked at gap minder](https://www.gapminder.org/tools/#_chart-type=bubbles), and started to talked accounting for economic growth.
 
 ---
 
