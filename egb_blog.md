@@ -1,8 +1,33 @@
 # The EGB BLOG
 
-**Interesting Article**
+**More on Growth and Connecting it with Class**
 
-https://www.ft.com/content/76057bd8-1342-11e8-940e-08320fc2a277
+Here is a short video discussing a new book that tackles the question about the future of US (and other developed countries) economic growth.
+
+The logic of the author's argument fits very well with what we have been doing in class the last couple of days.  We showed how growth is connected with growth in productivity. His argument is that in the past we saw amazing technological innovations that increased productivity and, thus, GDP and leads to rising living standards. 
+
+Today---his argument goes---technological advances such as smart phones,  improvements in computers, social media, artificial intelligence, etc., will have less of an impact on productivity growth than the innovations in the early 20th century (e.g. flush toilets, electricity). Thus, we should NOT expect growth in living standards like we experience in the past 100 years. What do you think?
+
+[![PBS](https://img.youtube.com/vi/Fcw4iO3Xx8E/0.jpg)](https://www.youtube.com/watch?v=Fcw4iO3Xx8E)
+
+---
+
+**FT Article**
+
+Today we talked more about economic growth. This article is a nice piece (especially the back end) illustrating how to understand and derive implications from economic forecasts and trends.
+
+[https://www.ft.com/content/76057bd8-1342-11e8-940e-08320fc2a277](https://www.ft.com/content/76057bd8-1342-11e8-940e-08320fc2a277)
+
+The highlights:
+
+- The graph showing declining labor productivity growth. What does this mean (i) real wage growth must be declining as well...that is living standards are not growing in the same way that the have in the past. Second, if we work from our BGP notes, this is telling us that technological progress is slowing. Strange, but yes.
+
+- Another drag on growth are changing demographics. We now this from our accounting framework AND the BGP notes...lower population growth means (holding everything else constant) slowing growth in GDP.
+
+- The importance of TFP both in technological innovation and in changes in institutions. We know this now...we have seen it that this is THE driver for changes in living standards and economic.
+
+Finally see the discussion above for more on this!
+
 
 ---
 
