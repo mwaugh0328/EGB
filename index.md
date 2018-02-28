@@ -102,7 +102,8 @@ Read/Do for class:
   - Chapter 9 (Only Sections 9-2 and 9-3)
   - [Slides](https://github.com/mwaugh0328/EGB/raw/master/materials/week5/week5.balanced_growth.pdf)
   - [Problem Set #2](https://github.com/mwaugh0328/EGB/raw/master/materials/problem_sets/egb.ps2.pdf)    --- [Data set](https://github.com/mwaugh0328/EGB/raw/master/materials/problem_sets/ps2_data.xlsx) --- **Due Friday 3/2, 5pm**
-  - Quiz on Economic Growth. Complete by end of day Friday (3/2). Link here:
+
+  **Quiz on Economic Growth. Complete by end of day Friday (3/2).** Link here:
 
 [https://goo.gl/forms/FT1NpK8RRF18Jrw33](https://goo.gl/forms/FT1NpK8RRF18Jrw33)
 
@@ -110,7 +111,7 @@ Read/Do for class:
 
 ### Week # 7: 3/5, **Midterm on 3/7**
 Read/Do for class:
-  - Review
+  - [In class exercise.]((https://github.com/mwaugh0328/EGB/raw/master/materials/week5/week5.egb_inclass_growth)) Review
   - **Midterm on 3/7**
   - Practice midterms [Spring 2016](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/midterm1_egb_spring16.pdf) [Fall 2016](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/midterm1_egb_fall16_A.pdf)
 
