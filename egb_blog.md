@@ -1,5 +1,11 @@
 # The EGB BLOG
 
+**Interesting Article**
+
+https://www.ft.com/content/76057bd8-1342-11e8-940e-08320fc2a277
+
+---
+
 **Practice Exams**
 
 Here they are:
