@@ -1,6 +1,6 @@
 # The EGB BLOG
 
-**More on Growth and Connecting it with Class**
+**More on technological change, growth and connecting it with class**
 
 Here is a short video discussing a new book that tackles the question about the future of US (and other developed countries) economic growth.
 
