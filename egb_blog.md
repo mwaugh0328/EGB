@@ -1,5 +1,15 @@
 # The EGB BLOG
 
+**Solutions to Practice Exams**
+
+Here they are:
+
+- [Solutions Spring 2016](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/solutions_practice_midterm1_egb_spring16)
+
+- [Solutions Fall 2016](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/midterm_1_solutions_fall2016)
+
+---
+
 **More on technological change, growth and connecting it with class**
 
 Here is a short video discussing a new book that tackles the question about the future of US (and other developed countries) economic growth.
