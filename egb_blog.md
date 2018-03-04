@@ -4,9 +4,13 @@
 
 Here they are:
 
-- [Solutions Spring 2016](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/solutions_practice_midterm1_egb_spring16.pdf)
+- [Solutions Spring](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/exam1_solutions_spring16.pdf)
 
 - [Solutions Fall 2016](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/midterm_1_solutions_fall2016.pdf)
+
+An extra test and solutions:
+
+- [Extra Exam](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/solutions_practice_midterm1_egb_spring16.pdf)
 
 ---
 
