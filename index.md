@@ -116,6 +116,8 @@ Read/Do for class:
   - **Midterm on 3/7**
   - Practice midterms [Spring 2016](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/midterm1_egb_spring16.pdf) [Fall 2016](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/midterm1_egb_fall16_A.pdf)
 
+  -  [Overview and details for Midterm](https://github.com/mwaugh0328/EGB/raw/master/materials/week6/midterm_review_1_spring2018)
+
 ---
 
 ### Week # 8: 3/19 - 3/21
