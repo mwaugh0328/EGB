@@ -112,11 +112,11 @@ Read/Do for class:
 
 ### Week # 7: 3/5, **Midterm on 3/7**
 Read/Do for class:
-  - [In class exercise.]((https://github.com/mwaugh0328/EGB/raw/master/materials/week5/week5.egb_inclass_growth)) Review
+  - [In class exercise.]((https://github.com/mwaugh0328/EGB/raw/master/materials/week5/week5.egb_inclass_growth.pdf)) [Solutions](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/solutions_week5_inclass.pdf) Review
   - **Midterm on 3/7**
   - Practice midterms [Spring 2016](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/midterm1_egb_spring16.pdf) [Fall 2016](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/midterm1_egb_fall16_A.pdf)
 
-  -  [Overview and details for Midterm](https://github.com/mwaugh0328/EGB/raw/master/materials/week6/midterm_review_1_spring2018)
+  -  [Overview and details for Midterm](https://github.com/mwaugh0328/EGB/raw/master/materials/week6/midterm_review_1_spring2018.pdf)
 
 ---
 
