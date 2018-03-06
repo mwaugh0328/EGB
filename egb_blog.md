@@ -1,5 +1,11 @@
 # The EGB BLOG
 
+**Extra Office Hours**
+
+Today (Tuesday) 3-5pm in my office KMC 7-74
+
+---
+
 **Solutions to Practice Exams**
 
 Here they are:
