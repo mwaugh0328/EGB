@@ -1,5 +1,11 @@
 # The EGB BLOG
 
+**Starting Trade**
+
+Welcome back from Spring Break! This week we start trade which is all over the news. Over the next couple of days I'm going to post some links in the news about changes in US trade policy and how to think about their implications. Stay Tuned!
+
+---
+
 **Extra Office Hours**
 
 Today (Tuesday) 3-5pm in my office KMC 7-74
