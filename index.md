@@ -126,7 +126,7 @@ Read/Do for class:
 
 Read/Do for class:
   - Notes from Stern
-  - Slides
+  - Slides: [Intro to Trade and First half of Ricardo](https://github.com/mwaugh0328/EGB/raw/master/materials/week7/week7.trade_ricardo_start.pdf), [Finish up Ricardian Model](https://github.com/mwaugh0328/EGB/raw/master/materials/week7/week7.trade_ricardo_finish.pdf)
 
 ---
 
