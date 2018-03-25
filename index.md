@@ -127,6 +127,7 @@ Read/Do for class:
 Read/Do for class:
   - Notes from Stern
   - Slides: [Intro to Trade and First half of Ricardo](https://github.com/mwaugh0328/EGB/raw/master/materials/week7/week7.trade_ricardo_start.pdf), [Finish up Ricardian Model](https://github.com/mwaugh0328/EGB/raw/master/materials/week7/week7.trade_ricardo_finish.pdf)
+  - [In class practice](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/egb.ricardo_model_inclass.pdf) [solutions](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/egb.ricardo_model_inclass_solutions.pdf)
 
 ---
 
@@ -136,7 +137,7 @@ Read/Do for class:
 
 Read/Do for class:
   - Notes from Stern
-  - Slides
+  - [Slides Closed Economy](https://github.com/mwaugh0328/EGB/raw/master/materials/week9/week9.trade_monopolistic_competition_I.pdf) [Slides Open Economy](https://github.com/mwaugh0328/EGB/raw/master/materials/week9/week9.trade_monopolistic_competition_II.pdf)
 
 ---
 
@@ -146,7 +147,7 @@ Read/Do for class:
 
 Read/Do for class:
   - Mankiw Chapter 6 (Only Sections 6-1 and 6-2)
-  - Slides
+  - [Slides](https://github.com/mwaugh0328/EGB/raw/master/materials/week9/week9.trade_imbalances.pdf)
 
 ---
 
