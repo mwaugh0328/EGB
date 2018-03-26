@@ -118,6 +118,9 @@ Read/Do for class:
 
   -  [Overview and details for Midterm](https://github.com/mwaugh0328/EGB/raw/master/materials/week6/midterm_review_1_spring2018.pdf)
 
+- [Midterm Solutions](https://github.com/mwaugh0328/EGB/blob/master/materials/practice_material/midterm_one_solutions.pdf)
+
+
 ---
 
 ### Week # 8: 3/19 - 3/21
