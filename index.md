@@ -132,6 +132,8 @@ Read/Do for class:
   - Slides: [Intro to Trade and First half of Ricardo](https://github.com/mwaugh0328/EGB/raw/master/materials/week7/week7.trade_ricardo_start.pdf), [Finish up Ricardian Model](https://github.com/mwaugh0328/EGB/raw/master/materials/week7/week7.trade_ricardo_finish.pdf)
   - [In class practice](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/egb.ricardo_model_inclass.pdf) [solutions](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/egb.ricardo_model_inclass_solutions.pdf)
 
+- Online Quiz here: https://goo.gl/forms/5B62qVAfEy2WkzXC2
+
 ---
 
 ### Week # 9: 3/26 - 3/28
