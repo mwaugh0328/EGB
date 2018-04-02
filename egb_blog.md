@@ -1,5 +1,11 @@
 # The EGB BLOG
 
+**Midterm II Pushed Back**
+
+Due to the snow days, I decided to push back the exam to 4/16. Please let me know ASAP if you have any conflicts with this.
+
+---
+
 **Starting Trade**
 
 Welcome back from Spring Break! This week we start trade which is all over the news. Over the next couple of days I'm going to post some links in the news about changes in US trade policy and how to think about their implications. Stay Tuned!

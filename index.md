@@ -136,37 +136,33 @@ Read/Do for class:
 
 ---
 
-### Week # 9: 3/26 - 3/28
+### Week # 10: 4/2- 4/4
 
 **Firms in International Trade**
 
 Read/Do for class:
   - Notes from Stern
-  - [Slides Closed Economy](https://github.com/mwaugh0328/EGB/raw/master/materials/week9/week9.trade_monopolistic_competition_I.pdf) [Slides Open Economy](https://github.com/mwaugh0328/EGB/raw/master/materials/week9/week9.trade_monopolistic_competition_II.pdf)
+  - [Slides Closed Economy](https://github.com/mwaugh0328/EGB/raw/master/materials/week9/week9.trade_monopolistic_competition_I.pdf) --- [Slides Open Economy](https://github.com/mwaugh0328/EGB/raw/master/materials/week9/week9.trade_monopolistic_competition_II.pdf)
 
 ---
 
-### Week # 10: 4/2- 4/4
-
-**Trade Imbalances and Capital Flows**
-
+### Week # 11: 4/9-4/11
 Read/Do for class:
-  - Mankiw Chapter 6 (Only Sections 6-1 and 6-2)
-  - [Slides](https://github.com/mwaugh0328/EGB/raw/master/materials/week9/week9.trade_imbalances.pdf)
+  - **Trade Imbalances and Capital Flows**
 
----
-
-### Week # 11: 4/9, **Midterm on 4/11**
-
-Read/Do for class:
-  - Review, Finish up on 4/5
-  -
+  Read/Do for class:
+    - Mankiw Chapter 6 (Only Sections 6-1 and 6-2)
+-  [Slides](https://github.com/mwaugh0328/EGB/raw/master/materials/week9/week9.trade_imbalances.pdf)
+  - Review, Finish up on 4/11
 
 ---
 
 ### Week # 12: 4/16 - 4/18
 
-**Money and Banking**
+**Midterm on 4/16**
+
+
+**Money and Banking 4/18**
 
 Read/Do for class:
   - Chapter 4
