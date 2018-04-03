@@ -141,7 +141,7 @@ Read/Do for class:
 **Firms in International Trade**
 
 Read/Do for class:
-  - Notes from Stern
+  - [Notes from Stern](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/firms_trade_notes.pdf)
   - [Slides Closed Economy](https://github.com/mwaugh0328/EGB/raw/master/materials/week9/week9.trade_monopolistic_competition_I.pdf) --- [Slides Open Economy](https://github.com/mwaugh0328/EGB/raw/master/materials/week9/week9.trade_monopolistic_competition_II.pdf)
 
 ---
