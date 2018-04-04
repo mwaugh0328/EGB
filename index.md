@@ -142,17 +142,25 @@ Read/Do for class:
 
 Read/Do for class:
   - [Notes from Stern](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/firms_trade_notes.pdf)
+
   - [Slides Closed Economy](https://github.com/mwaugh0328/EGB/raw/master/materials/week9/week9.trade_monopolistic_competition_I.pdf) --- [Slides Open Economy](https://github.com/mwaugh0328/EGB/raw/master/materials/week9/week9.trade_monopolistic_competition_II.pdf)
+
+  - [In class practice.](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/egb.mc_model_inclass.pdf) [Solutions.](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/egb.mc_model_inclass_solutions.pdf)
 
 ---
 
 ### Week # 11: 4/9-4/11
-Read/Do for class:
-  - **Trade Imbalances and Capital Flows**
+
+**Winners and Losers from Trade, "America First Policies"**
+
+- [Slides](https://github.com/mwaugh0328/EGB/blob/master/materials/practice_material/america_first_talk.pdf)
+
+**Trade Imbalances and Capital Flows**
 
   Read/Do for class:
     - Mankiw Chapter 6 (Only Sections 6-1 and 6-2)
--  [Slides](https://github.com/mwaugh0328/EGB/raw/master/materials/week9/week9.trade_imbalances.pdf)
+- [Slides](https://github.com/mwaugh0328/EGB/raw/master/materials/week9/week9.trade_imbalances.pdf)
+
   - Review, Finish up on 4/11
 
 ---
