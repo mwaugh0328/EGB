@@ -147,6 +147,9 @@ Read/Do for class:
 
   - [In class practice.](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/egb.mc_model_inclass.pdf) [Solutions.](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/egb.mc_model_inclass_solutions.pdf)
 
+- Online Quiz here:
+[https://goo.gl/forms/SqmF8y7p3Xom02am2](https://goo.gl/forms/SqmF8y7p3Xom02am2)
+
 ---
 
 ### Week # 11: 4/9-4/11
