@@ -162,7 +162,7 @@ Read/Do for class:
 
   Read/Do for class:
     - Mankiw Chapter 6 (Only Sections 6-1 and 6-2)
-- [Slides](https://github.com/mwaugh0328/EGB/raw/master/materials/week9/week9.trade_imbalances.pdf)
+- [Slides](https://github.com/mwaugh0328/EGB/raw/master/materials/week10/week10.trade_imbalances.pdf)
 
   - Review, Finish up on 4/11
 
