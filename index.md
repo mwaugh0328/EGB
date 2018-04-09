@@ -164,6 +164,8 @@ Read/Do for class:
     - Mankiw Chapter 6 (Only Sections 6-1 and 6-2)
 - [Slides](https://github.com/mwaugh0328/EGB/raw/master/materials/week10/week10.trade_imbalances.pdf)
 
+- [In class practice](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/egb.revisiting_trump_inclass.pdf) --- [Solutions]()
+
   - Review, Finish up on 4/11
 
 ---
@@ -171,6 +173,10 @@ Read/Do for class:
 ### Week # 12: 4/16 - 4/18
 
 **Midterm on 4/16**
+
+ - [Practice Exam (Spring 2016)](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/midterm2_egb_spring2016_solutions.pdf)
+
+ - [Practice Exam (Fall 2016)](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/solutions_exam2_fall2016.pdf)
 
 
 **Money and Banking 4/18**
