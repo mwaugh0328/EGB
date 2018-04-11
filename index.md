@@ -172,6 +172,8 @@ Read/Do for class:
 
 **Midterm on 4/16**
 
+- [Review](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/midterm_review_2_spring2018.pdf)
+
  - [Practice Exam (Spring 2016)](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/midterm2_egb_spring2016_solutions.pdf)
 
  - [Practice Exam (Fall 2016)](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/solutions_exam2_fall2016.pdf)
