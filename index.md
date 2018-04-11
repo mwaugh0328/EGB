@@ -174,9 +174,9 @@ Read/Do for class:
 
 - [Review](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/midterm_review_2_spring2018.pdf)
 
- - [Practice Exam (Spring 2016)](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/midterm2_egb_spring2016_solutions.pdf)
+ - [Practice Exam (Spring 2016)](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/midterm2_egb_spring2016_solutions.pdf)  [Copy with no solutions](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/midterm2_egb_spring16_exam_B.pdf)
 
- - [Practice Exam (Fall 2016)](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/solutions_exam2_fall2016.pdf)
+ - [Practice Exam (Fall 2016)](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/solutions_exam2_fall2016.pdf) [Copy with no solutions](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/midterm2_egb_fall16_exam_A.pdf)
 
 
 **Money and Banking 4/18**
