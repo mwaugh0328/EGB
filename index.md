@@ -183,7 +183,10 @@ Read/Do for class:
 
 Read/Do for class:
   - Chapter 4
-  - Slides
+
+  - [Money and Inflation](https://github.com/mwaugh0328/EGB/raw/master/materials/week11/week10.money_inflation.pdf)
+
+  - [Money and Banking](https://github.com/mwaugh0328/EGB/raw/master/materials/week11/week10.money_banking.pdf)
 
 ---
 
@@ -193,14 +196,20 @@ Read/Do for class:
 
 Read/Do for class:
   - Chapter 10 (Mankiw)
-  - Slides
+
+  - [Aggregate Demand](https://github.com/mwaugh0328/EGB/raw/master/materials/week12/week12.aggregate_demand.pdf)
+
+  - [Aggregate Supply](https://github.com/mwaugh0328/EGB/raw/master/materials/week12/week12.aggregate_supply.pdf)
 
 
 ---
 
 ### Week # 14: 4/30-5/2
 
-**Exchange Rates**
+**4/30: Putting it AS/AD all together**
+ - Slides
+
+**5/2: Exchange Rates**
 
 Read/Do for class:
   - Slides
