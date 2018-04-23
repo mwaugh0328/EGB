@@ -208,6 +208,7 @@ Read/Do for class:
 
 **4/30: Putting it AS/AD all together**
  - Slides
+ - [Problem Set, The Taylor Rule](https://github.com/mwaugh0328/EGB/raw/master/materials/problem_sets/egb.ps4.pdf)
 
 **5/2: Exchange Rates**
 
@@ -225,3 +226,5 @@ Read/Do for class:
 ---
 
 ## Final: on 5/11
+
+- [Extra Credit](https://github.com/mwaugh0328/EGB/raw/master/materials/problem_sets/egb.ps5.pdf)
