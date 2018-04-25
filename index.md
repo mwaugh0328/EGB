@@ -178,6 +178,8 @@ Read/Do for class:
 
  - [Practice Exam (Fall 2016)](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/solutions_exam2_fall2016.pdf) [Copy with no solutions](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/midterm2_egb_fall16_exam_A.pdf)
 
+ - [Solutions to Midterm](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/midterm2_egb_spring18_solutions.pdf) 
+
 
 **Money and Banking 4/18**
 
