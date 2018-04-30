@@ -178,10 +178,10 @@ Read/Do for class:
 
  - [Practice Exam (Fall 2016)](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/solutions_exam2_fall2016.pdf) [Copy with no solutions](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/midterm2_egb_fall16_exam_A.pdf)
 
- - [Solutions to Midterm](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/midterm2_egb_spring18_solutions.pdf) 
+ - [Solutions to Midterm](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/midterm2_egb_spring18_solutions.pdf)
 
 
-**Money and Banking 4/18**
+**Money and Banking 4/18-4/30**
 
 Read/Do for class:
   - Chapter 4
@@ -190,9 +190,11 @@ Read/Do for class:
 
   - [Money and Banking](https://github.com/mwaugh0328/EGB/raw/master/materials/week11/week10.money_banking.pdf)
 
+[Quiz on Money, Inflation, Banking](https://goo.gl/forms/xNFQ9A1y87WNGZpu1)
+
 ---
 
-### Week # 13: 4/23-4/25
+### Week # 14: 4/30-5/2
 
 **Intro to Business Cycles and Aggregate Demand and Supply**
 
@@ -203,27 +205,18 @@ Read/Do for class:
 
   - [Aggregate Supply](https://github.com/mwaugh0328/EGB/raw/master/materials/week12/week12.aggregate_supply.pdf)
 
-
----
-
-### Week # 14: 4/30-5/2
-
-**4/30: Putting it AS/AD all together**
+**Putting it AS/AD all together**
  - Slides
  - [Problem Set, The Taylor Rule](https://github.com/mwaugh0328/EGB/raw/master/materials/problem_sets/egb.ps4.pdf)
 
-**5/2: Exchange Rates**
 
-Read/Do for class:
-  - Slides
 
 ---
 ### Week # 15: 5/7
 
-**Finish up Exchange Rates**
+**Finish up**
+ - Review for Final
 
-Read/Do for class:
-  - Slides
 
 ---
 
