@@ -206,8 +206,12 @@ Read/Do for class:
   - [Aggregate Supply](https://github.com/mwaugh0328/EGB/raw/master/materials/week12/week12.aggregate_supply.pdf)
 
 **Putting it AS/AD all together**
+
  - [Slides on Monetary policy and Taylor Rule](https://github.com/mwaugh0328/EGB/blob/master/materials/week13/week13.monetary_policy.pdf)
+
  - [Problem Set, The Taylor Rule](https://github.com/mwaugh0328/EGB/raw/master/materials/problem_sets/egb.ps4.pdf)
+
+ - [Notes on Taylor Rule](https://github.com/mwaugh0328/EGB/raw/master/materials/week13/taylor_rule_notes.pdf)
 
 
 
