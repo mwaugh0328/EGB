@@ -190,7 +190,7 @@ Read/Do for class:
 
   - [Money and Banking](https://github.com/mwaugh0328/EGB/raw/master/materials/week11/week10.money_banking.pdf)
 
-[Quiz on Money, Inflation, Banking](https://goo.gl/forms/xNFQ9A1y87WNGZpu1)
+[Quiz on Money, Inflation, Banking](https://goo.gl/forms/xNFQ9A1y87WNGZpu1) here: https://goo.gl/forms/xNFQ9A1y87WNGZpu1 Due Friday, May 4th.
 
 ---
 
