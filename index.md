@@ -219,7 +219,7 @@ Read/Do for class:
 ### Week # 15: 5/7
 
 **Finish up**
- - Review for Final
+ - [Review for Final](https://github.com/mwaugh0328/EGB/blob/master/materials/final_review/final_review_2018.pdf)
 
 
 ---
