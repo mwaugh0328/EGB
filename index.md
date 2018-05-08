@@ -225,8 +225,7 @@ Read/Do for class:
 
 - [Quiz on AS/AD do before final](https://goo.gl/forms/00si7mgMU2oBOdnN2): https://goo.gl/forms/00si7mgMU2oBOdnN2
 
-- Practice Materials. [Exam.](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/practice_final_egb_2016.pdf) [Exam with Solutions.](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/practice_final_egb_2016_solutions.pdf.pdf) **Warning: This has exchange rate questions which we did not cover (and you are not resposible for) AND it is a slightly different format**<br>
--
+- Practice Materials: [Exam.](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/practice_final_egb_2016.pdf) [Exam with Solutions.](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/practice_final_egb_2016_solutions.pdf.pdf) **Warning: This has exchange rate questions which we did not cover (and you are not resposible for) AND it is a slightly different format**
 
 ---
 
