@@ -205,7 +205,7 @@ Read/Do for class:
 
   - [Aggregate Supply](https://github.com/mwaugh0328/EGB/raw/master/materials/week12/week12.aggregate_supply.pdf)
 
-  - [Practice AD]() 
+  - [Practice AD](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/egb.AD_inclass_solutions.pdf) 
 
 **Putting it AS/AD all together**
 
