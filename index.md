@@ -221,6 +221,7 @@ Read/Do for class:
 **Finish up**
  - [Review for Final](https://github.com/mwaugh0328/EGB/blob/master/materials/final_review/final_review_2018.pdf)
 
+- [Quiz on AS/AD do before final](https://goo.gl/forms/00si7mgMU2oBOdnN2): https://goo.gl/forms/00si7mgMU2oBOdnN2
 
 ---
 
