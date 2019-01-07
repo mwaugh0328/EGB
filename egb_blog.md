@@ -1,5 +1,48 @@
 # The EGB BLOG
 
+---
+
+**Interesting stuff that would be good for next semester**
+
+He is one on measuring GDP and productivity:
+
+https://www.wsj.com/articles/theres-no-productivity-miracle-hiding-in-the-data-1532516401
+
+And a nice quote about Tech companies and how they are measured.
+
+"The data do count Google search and Facebook : They are treated as an input to companies that pay for the ads. True, they also have large benefits to consumers who get them for free, but, Mr. Moulton points out, so did television. Also, ​as ​their benefits have ​risen, some benefits of other “free” ad-supported media like newspapers and magazines​ have shrunk."
+
+Here is one on peoples perceptions about Tariffs:
+
+https://www.nytimes.com/2018/07/23/business/economy/trade-factory-trump.html
+
+This quote is good too...
+
+"Casey Jackson, a maintenance technician, said he would support the tariffs even if they cost him personally. “If it comes out of my paycheck, so be it,” he said. “You got to look at the big picture. That tiny bit of sacrifice we make will create jobs.”"
+
+Which relates directly to my [paper](http://www.waugheconomics.com/uploads/2/2/5/6/22563786/ntd_lw_tax.pdf), if this is OK, then why not use taxes to take a little bit out of his paycheck in the form of higher taxes, to ensure that others are protected. Instead, we should indirectly harm the most productive in our economy and then put them on welfare to "help" them out.
+
+Here is one of my favorite:
+
+https://www.nytimes.com/2018/07/26/us/politics/trump-steel-tariffs.html
+
+And then this quote:
+
+"Administration officials contend that overall job gains outpace the losses, and that companies like Mid Continent Nail may be using Mr. Trump’s tariffs as an excuse for their own business shortcomings.
+
+“It’s not always because of tariffs,” the commerce secretary, Wilbur Ross, told reporters on Air Force One. “A lot of companies have been using the excuse ‘Oh, the reason my earnings weren’t good is that there were the tariffs.’”""
+
+Orginal Granite City Article:
+
+https://www.wsj.com/articles/new-life-for-steel-plant-perks-up-depressed-illinois-town-workforce-1520766001
+
+
+And these are the costs of this...
+
+https://www.wsj.com/articles/cindy-brown-hit-it-big-in-kidney-beans-then-came-the-tariffs-1533220705
+
+---
+
 **Midterm II Pushed Back**
 
 Due to the snow days, I decided to push back the exam to 4/16. Please let me know ASAP if you have any conflicts with this.
