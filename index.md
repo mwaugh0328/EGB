@@ -16,7 +16,7 @@ The Economics of Global Business is an intermediate level course in macroeconomi
 
 **Important Resources**
 - [Syllabus](https://github.com/mwaugh0328/EGB/raw/master/materials/syllabus/syllabus_waugh_egb_spring_2018.pdf)  
-- [The Blog](egb_blog.md)
+- [The Blog](egb_blog_2019.md)
 
 
 ## Week by Week Schedule
@@ -223,7 +223,7 @@ Read/Do for class:
 
 - Practice Materials: [Exam.](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/practice_final_egb_2016.pdf) [Exam with Solutions.](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/practice_final_egb_2016_solutions.pdf.pdf) **Warning: This has exchange rate questions which we did not cover (and you are not resposible for) AND it is a slightly different format**
 
-- **REVIEW SESSION** 
+- **REVIEW SESSION**
 
 ---
 
