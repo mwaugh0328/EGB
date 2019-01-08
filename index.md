@@ -23,15 +23,15 @@ The Economics of Global Business is an intermediate level course in macroeconomi
 
 ---
 
-### Week # 1:  1/22-1/24
+### Week # 1:  1/28-1/31
 **Introduction and overview. Measurement of GDP.**
 
-Read/Do for class: 1/22
+Read/Do for class: 1/28
   - [Syllabus](https://github.com/mwaugh0328/EGB/raw/master/materials/syllabus/syllabus_waugh_egb_spring_2019.pdf) , Chapter 1 from Mankiw.
   - [Introduction Slides](https://github.com/mwaugh0328/EGB/raw/master/materials/intro/week1.intro_egb.pdf)
   - [Online Survey](https://docs.google.com/forms/d/e/1FAIpQLSdpE_eI2_znxkrBR9s_3rZB_Ky4JZIc_p4pNKzj7iLYciU79Q/viewform?usp=sf_link)
 
-Read/Do for class: 1/24
+Read/Do for class: 1/31
   - Chapter 2, Mankiw.
   - [Slides](https://github.com/mwaugh0328/EGB/raw/master/materials/measurement/week1.measurement_egb.pdf)
   - [In class Example: Measuring GDP](https://github.com/mwaugh0328/EGB/raw/master/materials/measurement/inclass_gdp.pdf)
@@ -39,30 +39,34 @@ Read/Do for class: 1/24
 
 ---
 
-### Week # 2: 1/29-1/31
+### Week # 2: 2/4-2/7
 **Real vs. Nominal. Measuring labor market performance.**
 
-Read/Do for class 1/29:
+Read/Do for class 2/4:
   - Chapter 2, Mankiw.
   - [Slides](https://github.com/mwaugh0328/EGB/raw/master/materials/measurement/week1.measurement_egb.pdf)
   - [Problem Set #1]() **Due:**
 
+**The aggregate production function and national income.**
+
+Read/Do for class 2/7:
+  - Chapter 3 from Mankiw
+  - [Slides](https://github.com/mwaugh0328/EGB/raw/master/materials/week2/week2.national_income.pdf)
+
 ---
 
-### Week # 3: 2/5-2/7
+### Week # 3: 2/11-2/14
 
-**Online Quiz: Must Complete by Friday 2/9**
+**Online Quiz** [link here]()
 
-[link here]()
+**Marginal products and factor prices.**
 
-**The aggregate production function and national income. Marginal products and factor prices.**
-
-Read/Do for class 2/5:
+Read/Do for class 2/11:
   - Chapter 3 from Mankiw
   - [Slides](https://github.com/mwaugh0328/EGB/raw/master/materials/week2/week2.national_income.pdf)
 
 
-** 2/8 Finish up marginal products and factor prices.**
+**Finish up marginal products and factor prices.**
 
 Read/Do for class:
   - Chapter 3 from Mankiw
@@ -71,33 +75,29 @@ Read/Do for class:
 
 ---
 
-### Week # 4: 2/12-2/14
+### Week # 4: 2/18-2/21
 **Demand Side of National Income**
 
-Read/Do for class 2/12:
+Read/Do for class:
+  - Chapter 3 from Mankiw
   - [Demand Side Slides](https://github.com/mwaugh0328/EGB/raw/master/materials/week3/week3.national_income_demand.pdf)
-
-
-Read/Do for class 2/14:
   - [In class exercise](https://github.com/mwaugh0328/EGB/blob/master/materials/week3/week3.egb_inclass_taxes.pdf)
   - [Solutions here]()
 
+**Quiz on Chapter 3**
+
 ---
 
-### Week # 5: (No class on 2/19) 2/21
+### Week # 5: 2/25-2/28
 **Using the production function to understand growth.**
 
 Read/Do for class:
   - Appendix of Chapter 9 "Accounting for the Sources of Economic Growth"
   - [Slides](https://github.com/mwaugh0328/EGB/raw/master/materials/week4/week4.accounting_growth.pdf)
 
-**Quiz on Chapter 3** Complete by end of day Friday (2/23). Link here:
-
-[link here](https://goo.gl/forms/qsPe9cweQEvIdcPv1)
-
 ---
 
-### Week # 6: 2/26-2/28
+### Week # 6: 3/4-3/7
 
 **Understanding economic growth**
 
@@ -112,17 +112,17 @@ Read/Do for class:
 
 ---
 
-### Week # 7: 3/5, **Midterm on 3/7**
+### Week # 7: 3/11-3/14
 Read/Do for class:
   - [In class exercise.]((https://github.com/mwaugh0328/EGB/raw/master/materials/week5/week5.egb_inclass_growth.pdf)) [Solutions]() Review
-  - **Midterm on 3/7**
+  - **Midterm?**
   - Practice midterms [Spring 2016](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/midterm1_egb_spring16.pdf) [Fall 2016](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/midterm1_egb_fall16_A.pdf)
 
   -  [Overview and details for Midterm](https://github.com/mwaugh0328/EGB/raw/master/materials/week6/midterm_review_1_spring2018.pdf)
 
 ---
 
-### Week # 8: 3/19 - 3/21
+### Week # 8: 3/25 - 3/28
 
 **Intro to Trade. Trade, technology, and the Ricardian Model.**
 
@@ -135,7 +135,7 @@ Read/Do for class:
 
 ---
 
-### Week # 10: 4/2- 4/4
+### Week # 10: 4/1- 4/4
 
 **Firms in International Trade**
 
@@ -150,7 +150,7 @@ Read/Do for class:
 
 ---
 
-### Week # 11: 4/9-4/11
+### Week # 11: 4/8-4/11
 
 **Winners and Losers from Trade, "America First Policies"**
 
@@ -166,9 +166,9 @@ Read/Do for class:
 
 ---
 
-### Week # 12: 4/16 - 4/18
+### Week # 12: 4/15 - 4/18
 
-**Midterm on 4/16**
+**Midterm**
 
 - [Review](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/midterm_review_2_spring2018.pdf)
 
@@ -176,8 +176,9 @@ Read/Do for class:
 
  - [Practice Exam (Fall 2016)](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/solutions_exam2_fall2016.pdf) [Copy with no solutions](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/midterm2_egb_fall16_exam_A.pdf)
 
+---
 
-**Money and Banking 4/18-4/30**
+**Money and Banking 4/22-4/25**
 
 Read/Do for class:
   - Chapter 4
@@ -190,7 +191,7 @@ Read/Do for class:
 
 ---
 
-### Week # 14: 4/30-5/2
+### Week # 14: 4/29-5/2
 
 **Intro to Business Cycles and Aggregate Demand and Supply**
 
@@ -203,7 +204,7 @@ Read/Do for class:
 
   - [Practice AD](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/egb.AD_inclass_solutions.pdf)
 
-**Putting it AS/AD all together**
+**Putting AS/AD + Monetary Policy all together**
 
  - [Slides on Monetary policy and Taylor Rule](https://github.com/mwaugh0328/EGB/blob/master/materials/week13/week13.monetary_policy.pdf)
 
@@ -211,20 +212,20 @@ Read/Do for class:
 
  - [Notes on Taylor Rule](https://github.com/mwaugh0328/EGB/raw/master/materials/week13/taylor_rule_notes.pdf)
 
-
-
 ---
-### Week # 15: 5/7
+### Week # 15: 5/6-5/9
+
+**Economics of Exchange Rates**
 
 **Finish up**
  - [Review for Final](https://github.com/mwaugh0328/EGB/blob/master/materials/final_review/final_review_2018.pdf)
 
 - [Quiz on AS/AD do before final]():
 
-- Practice Materials: [Exam.](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/practice_final_egb_2016.pdf) [Exam with Solutions.](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/practice_final_egb_2016_solutions.pdf.pdf) **Warning: This has exchange rate questions which we did not cover (and you are not resposible for) AND it is a slightly different format**
-
-- **REVIEW SESSION**
+- Practice Materials: [Exam.](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/practice_final_egb_2016.pdf) [Exam with Solutions.](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/practice_final_egb_2016_solutions.pdf.pdf) **Warning: This is a slightly different format**
 
 ---
 
-## Final: on 5/11
+## REVIEW SESSION on 5/?
+
+## Final: on 5/21
