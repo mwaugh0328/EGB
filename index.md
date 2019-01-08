@@ -15,7 +15,7 @@ The Economics of Global Business is an intermediate level course in macroeconomi
 - Section .03: KMEC 4-80, Monday and Wednesday 3:30 PM - 4:45 PM.
 
 **Important Resources**
-- [Syllabus](https://github.com/mwaugh0328/EGB/raw/master/materials/syllabus/syllabus_waugh_egb_spring_2018.pdf)  
+- [Syllabus](https://github.com/mwaugh0328/EGB/raw/master/materials/syllabus/syllabus_waugh_egb_spring_2019.pdf)  
 - [The Blog](egb_blog_2019.md)
 
 
@@ -27,7 +27,7 @@ The Economics of Global Business is an intermediate level course in macroeconomi
 **Introduction and overview. Measurement of GDP.**
 
 Read/Do for class: 1/22
-  - [Syllabus](https://github.com/mwaugh0328/EGB/raw/master/materials/syllabus/syllabus_waugh_egb_spring_2018.pdf) , Chapter 1 from Mankiw.
+  - [Syllabus](https://github.com/mwaugh0328/EGB/raw/master/materials/syllabus/syllabus_waugh_egb_spring_2019.pdf) , Chapter 1 from Mankiw.
   - [Introduction Slides](https://github.com/mwaugh0328/EGB/raw/master/materials/intro/week1.intro_egb.pdf)
   - [Online Survey]()
 
