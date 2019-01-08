@@ -1,10 +1,10 @@
 # The EGB BLOG
-### [Economics of Global Business](index.md)
+#### [Economics of Global Business](index.md)
 ---
 
 **Welcome to The Economics of Global Business!**
 
-In a week we will have our first meeting and get the semester started. I want to reach out to you about some features of this course to help you prepare for the semester ahead.
+Soon we will have our first meeting and get the semester started. I want to reach out to you about some features of this course to help you prepare for the semester ahead.
 
 **Read the [Syllabus](https://github.com/mwaugh0328/EGB/raw/master/materials/syllabus/syllabus_waugh_egb_spring_2019.pdf).** I've posted the syllabus for the upcoming semester. This has information about important dates, texts, grading, etc. Please take some time to go over this prior to our first class meeting.
 
