@@ -1,5 +1,5 @@
 # The EGB BLOG
-
+### [Economics of Global Business](index.md)
 ---
 
 **Welcome to The Economics of Global Business!**
