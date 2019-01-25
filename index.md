@@ -113,9 +113,12 @@ Read/Do for class:
 ---
 
 ### Week # 7: 3/11-3/14
+
+**Midterm #1** In class: Section .03 on Wednesday 3/13, Section .01 on Thursday 3/14
+
 Read/Do for class:
   - [In class exercise.]((https://github.com/mwaugh0328/EGB/raw/master/materials/week5/week5.egb_inclass_growth.pdf)) [Solutions]() Review
-  - **Midterm?**
+
   - Practice midterms [Spring 2016](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/midterm1_egb_spring16.pdf) [Fall 2016](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/midterm1_egb_fall16_A.pdf)
 
   -  [Overview and details for Midterm](https://github.com/mwaugh0328/EGB/raw/master/materials/week6/midterm_review_1_spring2018.pdf)
@@ -168,7 +171,7 @@ Read/Do for class:
 
 ### Week # 12: 4/15 - 4/18
 
-**Midterm**
+**Midterm #2** In class: Section .03 on Wednesday 4/17, Section .01 on Thursday 4/18
 
 - [Review](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/midterm_review_2_spring2018.pdf)
 
@@ -177,8 +180,9 @@ Read/Do for class:
  - [Practice Exam (Fall 2016)](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/solutions_exam2_fall2016.pdf) [Copy with no solutions](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/midterm2_egb_fall16_exam_A.pdf)
 
 ---
+### Week # 13:  4/22-4/25
 
-**Money and Banking 4/22-4/25**
+**Money and Banking**
 
 Read/Do for class:
   - Chapter 4
