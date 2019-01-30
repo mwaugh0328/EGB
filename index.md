@@ -18,6 +18,11 @@ The Economics of Global Business is an intermediate level course in macroeconomi
 - [Syllabus](https://github.com/mwaugh0328/EGB/raw/master/materials/syllabus/syllabus_waugh_egb_spring_2019.pdf)  
 - [The Blog](egb_blog_2019.md)
 
+**Important Dates**
+- Midterm \#1: Section 3 on Wednesday 3/13; Section 1 on Thursday 3/14
+- Midterm \#2: Section 3 on Wednesday 4/17; Section 1 on Thursday 4/18
+- Final: All sections, 8:00am, May 21, 2019
+
 
 ## Week by Week Schedule
 
@@ -89,7 +94,7 @@ Read/Do for class:
 ---
 
 ### Week # 5: 2/25-2/28
-**Using the production function to understand growth.**
+**Using the production function to understand growth I.**
 
 Read/Do for class:
   - Appendix of Chapter 9 "Accounting for the Sources of Economic Growth"
@@ -99,16 +104,16 @@ Read/Do for class:
 
 ### Week # 6: 3/4-3/7
 
-**Understanding economic growth**
+**Understanding economic growth II**
 
 Read/Do for class:
   - Chapter 9 (Only Sections 9-2 and 9-3)
   - [Slides](https://github.com/mwaugh0328/EGB/raw/master/materials/week5/week5.balanced_growth.pdf)
-  - [Problem Set #2]()    --- [Data set](https://github.com/mwaugh0328/EGB/raw/master/materials/problem_sets/ps2_data.xlsx) --- **Due Friday 3/2, 5pm**
+  - [Problem Set #2]()    --- [Data set]()
 
-  **Quiz on Economic Growth. Complete by end of day Friday (3/2).** Link here:
+  **Quiz on Economic Growth.** Link here:
 
-[link here](https://goo.gl/forms/FT1NpK8RRF18Jrw33)
+[link here]()
 
 ---
 
