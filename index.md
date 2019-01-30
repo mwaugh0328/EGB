@@ -62,8 +62,6 @@ Read/Do for class 2/7:
 
 ### Week # 3: 2/11-2/14
 
-**Online Quiz** [link here]()
-
 **Marginal products and factor prices.**
 
 Read/Do for class 2/11:
@@ -77,6 +75,8 @@ Read/Do for class:
   - Chapter 3 from Mankiw
   - [In class exercise](https://github.com/mwaugh0328/EGB/raw/master/materials/week2/week2.egb_inclass_mpl.pdf)
   - [Solutions here]().
+
+**Quiz on Measurement**
 
 ---
 
@@ -111,9 +111,7 @@ Read/Do for class:
   - [Slides](https://github.com/mwaugh0328/EGB/raw/master/materials/week5/week5.balanced_growth.pdf)
   - [Problem Set #2]()    --- [Data set]()
 
-  **Quiz on Economic Growth.** Link here:
-
-[link here]()
+  **Quiz on Economic Growth.**
 
 ---
 
@@ -125,6 +123,7 @@ Read/Do for class:
   - [In class exercise.]((https://github.com/mwaugh0328/EGB/raw/master/materials/week5/week5.egb_inclass_growth.pdf)) [Solutions]() Review
 
   - Practice midterms [Spring 2016](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/midterm1_egb_spring16.pdf) [Fall 2016](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/midterm1_egb_fall16_A.pdf)
+  - With solutions [Spring 2016](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/solutions_practice_midterm1_egb_spring16.pdf) [Fall 2016](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/midterm_1_solutions_fall2016.pdf)
 
   -  [Overview and details for Midterm](https://github.com/mwaugh0328/EGB/raw/master/materials/week6/midterm_review_1_spring2018.pdf)
 
@@ -139,7 +138,7 @@ Read/Do for class:
   - Slides: [Intro to Trade and First half of Ricardo](https://github.com/mwaugh0328/EGB/raw/master/materials/week7/week7.trade_ricardo_start.pdf), [Finish up Ricardian Model](https://github.com/mwaugh0328/EGB/raw/master/materials/week7/week7.trade_ricardo_finish.pdf)
   - [In class practice](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/egb.ricardo_model_inclass.pdf) [solutions]()
 
-- [Online Quiz here](https://goo.gl/forms/5B62qVAfEy2WkzXC2)
+**Quiz on Ricardian Model**
 
 ---
 
@@ -154,7 +153,7 @@ Read/Do for class:
 
   - [In class practice.](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/egb.mc_model_inclass.pdf) [Solutions.]()
 
-- [Online Quiz here:](https://goo.gl/forms/SqmF8y7p3Xom02am2)
+**Quiz on Firms in International Trade**
 
 ---
 
@@ -194,9 +193,9 @@ Read/Do for class:
 
   - [Money and Inflation](https://github.com/mwaugh0328/EGB/raw/master/materials/week11/week10.money_inflation.pdf)
 
-  - [Money and Banking](https://github.com/mwaugh0328/EGB/raw/master/materials/week11/week10.money_banking.pdf)
+  - [Banking](https://github.com/mwaugh0328/EGB/raw/master/materials/week11/week10.money_banking.pdf)
 
-[Quiz on Money, Inflation, Banking]()
+**Quiz on Money, Inflation, Banking**
 
 ---
 
@@ -229,7 +228,7 @@ Read/Do for class:
 **Finish up**
  - [Review for Final](https://github.com/mwaugh0328/EGB/blob/master/materials/final_review/final_review_2018.pdf)
 
-- [Quiz on AS/AD do before final]():
+**Quiz on AS/AD**
 
 - Practice Materials: [Exam.](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/practice_final_egb_2016.pdf) [Exam with Solutions.](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/practice_final_egb_2016_solutions.pdf.pdf) **Warning: This is a slightly different format**
 
