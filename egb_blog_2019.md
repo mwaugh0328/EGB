@@ -1,5 +1,23 @@
 # The EGB BLOG
 #### [Economics of Global Business](index.md)
+
+---
+**First week...**
+
+Great job guys. So we started off by asking some big questions---specifically **"what is economic growth?"** Through our discussion we got around to four ideas:
+
+- It's something about our capacity to more produce stuff.
+
+- It's something about earning more income, be it from working or investments.
+
+- It's something about being able to buy more goods and services.
+
+- And it tells us something about quality of life, but not everything.
+
+This work was awesome. And then the first three bullet points lead us to talk about GDP---which literally is a measure of how much we can produce (first bullet), but those making the production happen to receive income for their effort (second bullet), and we are able to spend that income on goods and services (third bullet). And enjoying goods and services in not what life is about, but does provide us with satisfaction (last bullet). So GDP is an all encompassing measure that picks up these ideas we started out with. 
+
+Next week: Seeing how it works in a semi-complicated economy, measures of employment. The production function.  
+
 ---
 **The 2018/2019 Global Economy in a nutshell**
 
