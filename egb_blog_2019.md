@@ -23,6 +23,10 @@ How do I learn more about the questions in this problem set?
 
 - [Changes in real interest rates](https://obamawhitehouse.archives.gov/blog/2015/07/14/decline-long-term-interest-rates)
 
+Here is a break down of National Income (GDP) by where it comes from:
+
+https://fred.stlouisfed.org/release/tables?rid=53&eid=42133&snid=42136
+
 ---
 
 **First week...**
