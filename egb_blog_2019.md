@@ -2,6 +2,29 @@
 #### [Economics of Global Business](index.md)
 
 ---
+
+**Problem Set Help and Update**
+
+First, one of the codes for labor compensation was discontinued in 2016. Be sure to use the updated code here:
+
+- "A033RC1A027NBEA" called "National income: Compensation of employees"
+
+This ends in 2017, so do it up to that point.
+
+Wait...but I don't know how to use FRED. In the back of the slides [here](https://github.com/mwaugh0328/EGB/raw/master/materials/measurement/week1.measurement_egb.pdf) there are notes on how to use FRED.
+
+Ok, how do I compute growth rates? In this class, I prefer to use continuously compounded growth rates for many reasons. They are explained in this handout here:
+
+  - [Notes on Computing Growth Rates](https://github.com/mwaugh0328/EGB/raw/master/materials/measurement/notes_growth_rates.pdf)
+
+How do I learn more about the questions in this problem set?
+
+- [Changes in Labor's Share of Income](http://conversableeconomist.blogspot.com/2017/02/the-declining-us-labor-share-explicated.html)
+
+- [Changes in real interest rates](https://obamawhitehouse.archives.gov/blog/2015/07/14/decline-long-term-interest-rates)
+
+---
+
 **First week...**
 
 Great job guys. So we started off by asking some big questions---specifically **"what is economic growth?"** Through our discussion we got around to four ideas:
@@ -14,7 +37,7 @@ Great job guys. So we started off by asking some big questions---specifically **
 
 - And it tells us something about quality of life, but not everything.
 
-This work was awesome. And then the first three bullet points lead us to talk about GDP---which literally is a measure of how much we can produce (first bullet), but those making the production happen to receive income for their effort (second bullet), and we are able to spend that income on goods and services (third bullet). And enjoying goods and services in not what life is about, but does provide us with satisfaction (last bullet). So GDP is an all encompassing measure that picks up these ideas we started out with. 
+This work was awesome. And then the first three bullet points lead us to talk about GDP---which literally is a measure of how much we can produce (first bullet), but those making the production happen to receive income for their effort (second bullet), and we are able to spend that income on goods and services (third bullet). And enjoying goods and services in not what life is about, but does provide us with satisfaction (last bullet). So GDP is an all encompassing measure that picks up these ideas we started out with.
 
 Next week: Seeing how it works in a semi-complicated economy, measures of employment. The production function.  
 
