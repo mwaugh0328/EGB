@@ -2,6 +2,26 @@
 #### [Economics of Global Business](index.md)
 
 ---
+**More Problem Set help**
+
+_Q: I still don't get it, how do I compute growth rates?_
+
+Yah, so my preference is to use the continuously compounded growth rate. I think it is simpler. So to compute the growth rate of GDP between 1980 and 1970, do the following
+```
+(ln(GDP_1980) - ln(GDP_1970)) / (1980 - 1970)
+```
+Where the stuff in the first brackets simply takes the natural log difference of GDP between the two years. Then we want to make it interpretable, so we convert the growth rate to a per year basis. This is done by dividing by the number of years. So we divide by the difference between 1980 and 1970, or 10.
+
+_Q: In the second question, do we take the growth rate the 1-year treasury rate? Or what?_
+
+DO NOT TAKE THE GROWTH RATE. That will not make much sense.
+
+Take the average value of the rate over that time period. So, e.g., the average rate between 1970 and 1980 was X, report that.
+
+_TIP:_ When taking the difference between the rate and inflation, make sure they are in the same units. So either are both in percent units or both not. If they are in different units, the answers will not make much sense.   
+
+
+---
 
 **Problem Set Help and Update**
 
