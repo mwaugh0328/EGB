@@ -52,31 +52,26 @@ Read/Do for class 2/4:
   -  [In class Example: Measuring GDP](https://github.com/mwaugh0328/EGB/raw/master/materials/measurement/inclass_gdp.pdf)
   - [Problem Set #1](https://github.com/mwaugh0328/EGB/raw/master/materials/problem_sets/egb.ps1.pdf)  **Due: 2/13 or 2/14 depending on section.**
 
+---
+
+### Week # 3: 2/11-2/14
+
 **The aggregate production function and national income.**
 
 Read/Do for class 2/7:
   - Chapter 3 from Mankiw
   - [Slides](https://github.com/mwaugh0328/EGB/raw/master/materials/week2/week2.national_income.pdf)
 
----
-
-### Week # 3: 2/11-2/14
-
 **Marginal products and factor prices.**
 
 Read/Do for class 2/11:
   - Chapter 3 from Mankiw
   - [Slides](https://github.com/mwaugh0328/EGB/raw/master/materials/week2/week2.national_income.pdf)
-
-
-**Finish up marginal products and factor prices.**
-
-Read/Do for class:
-  - Chapter 3 from Mankiw
   - [In class exercise](https://github.com/mwaugh0328/EGB/raw/master/materials/week2/week2.egb_inclass_mpl.pdf)
-  - [Solutions here]().
 
 **Quiz on Measurement**
+- [https://goo.gl/forms/kF3xOSYnZ5OmaYTa2](https://goo.gl/forms/kF3xOSYnZ5OmaYTa2)
+- Must complete by **FEB 15** end of day.
 
 ---
 
