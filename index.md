@@ -50,7 +50,7 @@ Read/Do for class 2/4:
   - Chapter 2, Mankiw.
   - [Slides](https://github.com/mwaugh0328/EGB/raw/master/materials/measurement/week1.measurement_egb.pdf)
   -  [In class Example: Measuring GDP](https://github.com/mwaugh0328/EGB/raw/master/materials/measurement/inclass_gdp.pdf)
-  - [Solutions Here](https://github.com/mwaugh0328/EGB/raw/master/materials/measurement/inclass_gdp_solutions)
+  - [Solutions Here](https://github.com/mwaugh0328/EGB/raw/master/materials/measurement/inclass_gdp_solutions.pdf)
   - [Problem Set #1](https://github.com/mwaugh0328/EGB/raw/master/materials/problem_sets/egb.ps1.pdf)  **Due: 2/13 or 2/14 depending on section.**
 
 ---
