@@ -2,7 +2,7 @@
 #### [Economics of Global Business](index.md)
 
 ---
-**Week in Review**
+**Week in Review (2/15)**
 
 Great job! What have we accomplished this past week:
 
@@ -13,6 +13,8 @@ Great job! What have we accomplished this past week:
 - We then tested some implications of this theory by looking at PS1. One prediction was that growth in nominal GDP (P*Y) should grow at the same rate as total labor compensation (w*L). We saw that this was mostly true. A second (related) prediction was that the ratio of labor compensation to output was nearly constant. And was is this value 1- $\alpha$.
 
 - Final point about the "labors share" or 1-$\alpha$. The way to think about this is again GDP is a pie of stuff, how is it shared amongst the people that help make the stuff. Well in our world, it's a constant fraction.
+
+Remember to complete the quiz tonight. A new quiz will be posted soon, due for next week.
 
 Next week: Q2 on PS1 and talk about the capital market.
 
