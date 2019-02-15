@@ -2,6 +2,22 @@
 #### [Economics of Global Business](index.md)
 
 ---
+**Week in Review**
+
+Great job! What have we accomplished this past week:
+
+- Talked about the production function: Three key properties: (i) more inputs, more outputs, (i) diminishing marginal products, (iii) constant returns to scale. The big lesson here is about how the factors of production along with TFP determine real GDP.
+
+- From our accounting, we know that the fruits of production are distributed as income. So we learned about how wages are determined: MPL = real wage.  The production function makes clear how the MPL and, in turn, the wage depend on the stuff. For example, diminishing marginal products implies that more L, lowers the marginal product of labor (MPL), lowers the real wage.
+
+- We then tested some implications of this theory by looking at PS1. One prediction was that growth in nominal GDP (P*Y) should grow at the same rate as total labor compensation (w*L). We saw that this was mostly true. A second (related) prediction was that the ratio of labor compensation to output was nearly constant. And was is this value 1- $\alpha$.
+
+- Final point about the "labors share" or 1-$\alpha$. The way to think about this is again GDP is a pie of stuff, how is it shared amongst the people that help make the stuff. Well in our world, it's a constant fraction.
+
+Next week: Q2 on PS1 and talk about the capital market.
+
+---
+
 **More Problem Set help**
 
 _Q: I still don't get it, how do I compute growth rates?_
