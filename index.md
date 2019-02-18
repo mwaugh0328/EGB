@@ -68,7 +68,6 @@ Read/Do for class 2/7:
 Read/Do for class 2/11:
   - Chapter 3 from Mankiw
   - [Slides](https://github.com/mwaugh0328/EGB/raw/master/materials/week2/week2.national_income.pdf)
-  - [In class exercise](https://github.com/mwaugh0328/EGB/raw/master/materials/week2/week2.egb_inclass_mpl.pdf)
 
 **Quiz on Measurement**
 - [https://goo.gl/forms/kF3xOSYnZ5OmaYTa2](https://goo.gl/forms/kF3xOSYnZ5OmaYTa2)
@@ -77,6 +76,14 @@ Read/Do for class 2/11:
 ---
 
 ### Week # 4: 2/18-2/21
+
+**Finish up...marginal products and factor prices.**
+
+Read/Do for class:
+  - [Slides](https://github.com/mwaugh0328/EGB/raw/master/materials/week2/week2.national_income.pdf)
+  - [In class exercise](https://github.com/mwaugh0328/EGB/raw/master/materials/week2/week2.egb_inclass_mpl.pdf)
+  - [Solutions here]()
+
 **Demand Side of National Income**
 
 Read/Do for class:
@@ -84,8 +91,6 @@ Read/Do for class:
   - [Demand Side Slides](https://github.com/mwaugh0328/EGB/raw/master/materials/week3/week3.national_income_demand.pdf)
   - [In class exercise](https://github.com/mwaugh0328/EGB/blob/master/materials/week3/week3.egb_inclass_taxes.pdf)
   - [Solutions here]()
-
-**Quiz on Chapter 3**
 
 ---
 
@@ -95,6 +100,8 @@ Read/Do for class:
 Read/Do for class:
   - Appendix of Chapter 9 "Accounting for the Sources of Economic Growth"
   - [Slides](https://github.com/mwaugh0328/EGB/raw/master/materials/week4/week4.accounting_growth.pdf)
+
+**Quiz on Chapter 3**
 
 ---
 
