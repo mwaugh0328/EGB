@@ -84,6 +84,10 @@ Read/Do for class:
   - [In class exercise](https://github.com/mwaugh0328/EGB/raw/master/materials/week2/week2.egb_inclass_mpl.pdf)
   - [Solutions here]()
 
+---
+
+### Week # 5: 2/25-2/28
+
 **Demand Side of National Income**
 
 Read/Do for class:
@@ -92,20 +96,18 @@ Read/Do for class:
   - [In class exercise](https://github.com/mwaugh0328/EGB/blob/master/materials/week3/week3.egb_inclass_taxes.pdf)
   - [Solutions here]()
 
----
-
-### Week # 5: 2/25-2/28
-**Using the production function to understand growth I.**
-
-Read/Do for class:
-  - Appendix of Chapter 9 "Accounting for the Sources of Economic Growth"
-  - [Slides](https://github.com/mwaugh0328/EGB/raw/master/materials/week4/week4.accounting_growth.pdf)
-
 **Quiz on Chapter 3**
+- [https://goo.gl/forms/6whrv2jvTfjELLRr2](https://goo.gl/forms/6whrv2jvTfjELLRr2)
+- Must complete by **MAR 1** end of day.
 
 ---
 
 ### Week # 6: 3/4-3/7
+
+**Using the production function to understand growth I.**
+Read/Do for class:
+  - Appendix of Chapter 9 "Accounting for the Sources of Economic Growth"
+  - [Slides](https://github.com/mwaugh0328/EGB/raw/master/materials/week4/week4.accounting_growth.pdf)
 
 **Understanding economic growth II**
 
