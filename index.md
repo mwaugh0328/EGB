@@ -81,7 +81,7 @@ Read/Do for class 2/11:
 
 Read/Do for class:
   - [Slides](https://github.com/mwaugh0328/EGB/raw/master/materials/week2/week2.national_income.pdf)
-  - [In class exercise](https://github.com/mwaugh0328/EGB/raw/master/materials/week2/week2.egb_inclass_mpl.pdf)
+  - [In class exercise](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/egb_economics_of_wall.pdf)
   - [Solutions here]()
 
 ---
@@ -114,7 +114,7 @@ Read/Do for class:
 Read/Do for class:
   - Chapter 9 (Only Sections 9-2 and 9-3)
   - [Slides](https://github.com/mwaugh0328/EGB/raw/master/materials/week5/week5.balanced_growth.pdf)
-  - [Problem Set #2]() 
+  - [Problem Set #2]()
 
   **Quiz on Economic Growth.**
 
