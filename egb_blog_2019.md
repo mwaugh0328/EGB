@@ -2,6 +2,17 @@
 #### [Economics of Global Business](index.md)
 
 ---
+**Week in Review (2/22)**
+
+It was a short week, but we made a bunch of progress...
+
+- Talked about how the rental rate on capital is set so that it equals the marginal product of capital of MPK = R/P. Moreover, we argued that what capital receives should be equivalent to the real interest rate, "r."
+
+- We looked at how the real interest rate (as measured as the difference between the one year nominal rate minus the inflation rate) behaved overtime. Overall, there has been a large decline in real interest rates over the past 40 years.
+
+- Thursday class...we used all our tools and talked about the economic affects of immigration...its affects on GDP, wages, and real interest rates. 
+
+---
 **Week in Review (2/15)**
 
 Great job! What have we accomplished this past week:
