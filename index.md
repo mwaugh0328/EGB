@@ -7,8 +7,7 @@ The Economics of Global Business is an intermediate level course in macroeconomi
 **Who:** Professor [Michael Waugh](https://www.waugheconomics.com).
 - Email: [mwaugh@stern.nyu.edu](mailto:mwaugh@stern.nyu.edu).
 - Office: KMC 7-74.
-- Office hours: TBA
-- TF office hours: TBA
+- Office hours: Email by appointment or drop by \@ Monday and Wednesday 4:45 PM - 6:00 PM, Tuesday 4:00 - 5:00 pm.
 
 **Where and When:**
 - Section .01: TISCH UC24, Tuesday and Thursday 11:00 AM - 12:15 PM.
