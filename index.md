@@ -97,7 +97,7 @@ Read/Do for class:
 
 **Quiz on Chapter 3**
 - [https://goo.gl/forms/6whrv2jvTfjELLRr2](https://goo.gl/forms/6whrv2jvTfjELLRr2)
-- Must complete by **MAR 1** end of day.
+- Must complete by **MAR 4** end of day.
 
 ---
 
