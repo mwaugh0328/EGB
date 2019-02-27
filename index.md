@@ -113,7 +113,8 @@ Read/Do for class:
 Read/Do for class:
   - Chapter 9 (Only Sections 9-2 and 9-3)
   - [Slides](https://github.com/mwaugh0328/EGB/raw/master/materials/week5/week5.balanced_growth.pdf)
-  - [Problem Set #2]()
+  - [Problem Set #2](https://github.com/mwaugh0328/EGB/raw/master/materials/problem_sets/egb.ps2.pdf)
+    - [Data Set Here](https://github.com/mwaugh0328/EGB/raw/master/materials/data/egb_pwt_china.xlsx)
 
   **Quiz on Economic Growth.**
 
