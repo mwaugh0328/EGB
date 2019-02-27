@@ -1,0 +1,128 @@
+\documentclass[11pt,pdftex,twoside,letterpaper]{exam}
+\usepackage{amsmath,amssymb, amsthm}
+\usepackage{graphicx}
+\usepackage{color}
+\usepackage{comment}
+\usepackage{layout}
+\usepackage{booktabs}
+\usepackage[flushleft]{threeparttable}
+\usepackage{caption}
+\usepackage{setspace}
+\usepackage{float}
+\usepackage[colorlinks=true,linkcolor=blue,citecolor=blue,urlcolor=blue,bookmarks=false,pdfstartview={FitV}]{hyperref}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%Exam class formating%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\printanswers
+\renewcommand{\partlabel}{\thepartno.}
+\renewcommand{\questionshook}{\setlength{\itemsep}{0.2in}}
+\renewcommand{\partshook}{\setlength{\leftmargin}{0.2in}}
+\renewcommand{\solutiontitle}{}
+
+%%%%%%%%%%%%%%%%%%%%%%Margins%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage[margin=1.0in]{geometry}
+\setlength{\parindent}{0in}
+\setlength{\parskip}{\bigskipamount}
+\raggedbottom
+
+%%%%%%%%%%%%%%%%%%%%Tighten up the lists%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\let\OLDdescription\description
+\renewcommand\description{\OLDdescription\setlength{\itemsep}{-2mm}}
+
+%%%%%%%%%%%%%%%%%%%%%%Headers and Footers%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\pagestyle{headandfoot}
+\runningheadrule
+\firstpageheadrule
+\firstpageheader{\includegraphics[width=0.25\textwidth]{../figures/stern_black1.pdf}}{}{Economics
+of Global Business}
+
+\ifprintanswers
+\runningheader{Economics of Global Business}{}{Problem Set Solutions \#1}
+\else
+\runningheader{Economics of Global Business}{}{Emerging Market Forecasting and Growth
+Accounting}
+\footer{\bf Revised:  \today}{}{}
+\renewcommand{\partlabel}{\thepartno.}
+\renewcommand{\questionshook}{\setlength{\itemsep}{0.2in}}
+\renewcommand{\partshook}{\setlength{\leftmargin}{0.2in}}
+\renewcommand\familydefault{\sfdefault}
+\renewcommand\familydefault{\sfdefault}
+
+\renewcommand{\log}{\ln}
+
+
+
+
+\begin{document}
+\centerline{}
+\smallskip
+\centerline{\Large \bf Problem Set \#2: What did China grow?}
+\vspace{3mm}
+\centerline{\bf DUE: In class, March 11th or March 12th depending on section}
+\medskip
+{\bf You may work in a group of up to 3 people. Whatever you hand in should be the work of your
+group. Your report should take to form of a professional piece of work.}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{questions}
+
+\question Why did China grow? Simple question and guess what...we know how to answer it.\\ 
+
+On the course website is an excel file with data from China for over the past 60 years. In it is data on real GDP, employment, the stock of capital. In performing your calculations assume that payments to labor make up two-thirds of GDP in both countries, i.e., $1-\alpha=2/3$.
+
+\medskip
+
+\begin{parts}
+    \part Create well-labeled graph that plots the \textbf{natural logarithm} of GDP per worker over time.\\
+    
+    \bigskip
+
+    \part Using the capital, labor, GDP data and the production function, compute TFP for each year. Plot the 
+
+    \bigskip
+    
+    \part Create well-labeled graph that plots the \textbf{natural logarithm} of TFP over time.
+
+    \bigskip
+
+    \part Separate each country's growth experience into two periods: 1979-1990 and 1990-2011. And for each period report: 
+    \begin{itemize}
+    \item The average growth rate of output per worker ($Y/L$), 
+    
+    \item $\alpha$ multiplied by average growth rate of capital per worker ($K/L$)
+    
+    \item the average growth rate of Total Factor Productivity
+    \end{itemize}
+    
+     \begin{table}[h]
+        \centering
+        \begin{tabular*}{0.8\textwidth}{l@{\extracolsep{\fill}}cccc}
+        \toprule
+        China       & Y/L   & $\alpha$ K/L   &TFP \\
+        \midrule
+        1952--1990 &&&&\\
+        \addlinespace
+        1990--2014 &&&&\\
+        \bottomrule
+        \end{tabular*}
+        \end{table}
+
+
+    \part  Be prepared to discuss the following issues in class:
+    \begin{itemize}
+    \item What is the most important factor behind China's growth?
+    \smallskip
+    \item What does this suggest about how wages are changing in China?
+    \smallskip
+    \item What does this suggest about how interest rates in China have changed?
+    \smallskip
+    \item How should one think about TFP in the context of China's experience. Hint: Checkout the discussion in Chapter 9 of Mankiw (particular management practices, good institution, and trade). 
+    \end{itemize}
+\end{parts}
+
+
+
+\end{questions}
+\end{document}
+
