@@ -2,6 +2,19 @@
 #### [Economics of Global Business](index.md)
 
 ---
+**Week in Review (3/1)**
+
+It went by fast...a couple of things:
+
+- We spent time discussing how GDP is spent, i.e. how our production/income is allocated to spending on consumption, investment, and then government.
+
+- We arrived at this nice insight, that in equilibrium, the real interest rate adjusts to equate savings (by me and you) with investment (by firms).
+
+- In the T/Th class we walked through some examples in the context of the GND. So what does an increase in government spending do, well it lowers public savings as the government is buying more stuff. National savings equals public and private savings, so this means that national savings will fall. Then with the bullet above, this implies that the quantity of investment in the economy falls.<br>
+<br>
+This is what economist would call "crowding out" where public economic activity replaces private economic activity, in this case higher G means less investment. Empirically how much crowding out takes place is open to debate, but this insight is very important to keep in mind when thinking about government spending. 
+
+---
 **Week in Review (2/22)**
 
 It was a short week, but we made a bunch of progress...
@@ -10,7 +23,7 @@ It was a short week, but we made a bunch of progress...
 
 - We looked at how the real interest rate (as measured as the difference between the one year nominal rate minus the inflation rate) behaved overtime. Overall, there has been a large decline in real interest rates over the past 40 years.
 
-- Thursday class...we used all our tools and talked about the economic affects of immigration...its affects on GDP, wages, and real interest rates. 
+- Thursday class...we used all our tools and talked about the economic affects of immigration...its affects on GDP, wages, and real interest rates.
 
 ---
 **Week in Review (2/15)**
