@@ -1,0 +1,281 @@
+%\documentclass[10pt]{beamer}
+%\usefonttheme[onlylarge]{structurebold}
+
+\documentclass[handout]{beamer}
+\usefonttheme[onlylarge]{structurebold}
+  \usepackage{pgfpages}
+\mode<handout>
+\pgfpagesuselayout{4 on 1}[letterpaper,border shrink=5mm]
+
+\hypersetup{
+  bookmarks = false,
+  colorlinks,
+  citecolor = red,
+  linkcolor=blue,
+  pdfpagemode=none,
+  pdfstartview={Fit},
+  pdftitle={},
+  pdfauthor={Michael E. Waugh},
+  pdfkeywords={} }
+  \setbeamertemplate{navigation symbols}{}
+
+\mode<presentation> {
+  \usetheme{boxes}
+  % or ...
+
+  \setbeamercovered{transparent}
+  % or whatever (possibly just delete it)
+}
+
+\setbeamertemplate{itemize subitem}[circle]
+\setbeamerfont{frametitle}{size= \large}
+\setbeamerfont{ framesubtitle }{size = \footnotesize}
+\setbeamertemplate{frametitle}
+{
+\medskip
+\smallskip
+{\textsf{\underline{\insertframetitle\phantom{))))))))}}}}}
+
+
+\usepackage[english]{babel}
+\usepackage{wasysym}
+
+\addfootbox{}{\hspace{2cm}\tiny {Accounting For Growth---Economics of Global Business, Revised: \today}}%
+
+\title[NYU Stern] % (optional, use only with long paper titles)
+{\Large Accounting For Growth}
+
+\author[Michael Waugh] % (optional, use only with lots of authors)
+{\bf{\Large}}%
+
+\date[] % (optional)
+
+\subject{Talks}
+
+\begin{document}
+
+\begin{frame}
+  \titlepage
+\end{frame}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{frame}[t]
+\frametitle{One Question\ldots}
+\bigskip
+\begin{itemize}
+\medskip
+\item Where does economic growth come from?
+\begin{itemize}
+\medskip
+\item Link our model from Chapter 3 with how capital changes over time.
+\medskip
+\item An approach to determine the sources of economic growth (Appendix Chapter 9; PS \#2).
+\end{itemize}
+\end{itemize}
+\end{frame}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{frame}[t]
+\frametitle{Capital Accumulation}
+\footnotesize
+\begin{itemize}
+\item Capital accumulation equation
+\begin{eqnarray*}
+K_{t+1} = (1 - \delta) K_{t} + I_t
+\end{eqnarray*}
+\medskip
+\item $\delta$ is the rate of depreciation of capital.
+\bigskip
+\item Savings equals investment (loanable funds equilibrium) (end of Chapter 3)!
+\begin{eqnarray*}
+I_t = S_t = (Y_t - T_t) - \beta \times(Y_t- T_t) + (T_t - G_t)
+\end{eqnarray*}
+\begin{enumerate}
+\footnotesize
+\smallskip
+\item Changes that affect production \textbf{today} ($A$, $L$, or $K$) affect investment and in turn capital tomorrow!
+\medskip
+\medskip
+\item Changes that affect spending behavior \textbf{today} ($\beta$ or $T$ or $G$) affect investment and in turn capital tomorrow!
+\end{enumerate}
+\end{itemize}
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{frame}[t]
+\frametitle{Important food for thought\ldots}
+\footnotesize
+\begin{itemize}
+\item Previous equation now links stuff happening today with stuff in the future through capital accumulation.
+\medskip
+\item Now we can distinguish between short run ($K$ is fixed) and then long run (as $K$ changes).
+\medskip
+\item Return to our two examples: 
+\begin{enumerate}
+\footnotesize
+\smallskip
+\item \textbf{The Wall}... how would you expect $K$ to change? What will happen to GDP and wages, real interest rates as this takes place?
+\medskip
+\medskip
+\item \textbf{The GND}... how would you expect $K$ to change? What will happen to GDP and wages, real interest rates as this takes place?
+\end{enumerate}
+\end{itemize}
+\end{frame}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{frame}[t]
+\frametitle{Accounting For Growth}
+\begin{itemize}
+\item Our production function\ldots
+\begin{eqnarray*}
+Y &= A \times F(K,L)\\
+\\
+ &=  A K^{\alpha}L^{1-\alpha}
+\end{eqnarray*}
+\item Only three ways output can grow\ldots
+\begin{itemize}
+\bigskip
+\item More capital ($K$), aka ``capital deepening''
+\bigskip
+\item More labor inputs ($L$), may be from more workers, better educated workers, etc. aka ``labor deepening''
+\bigskip
+\item Better TFP ($A$), aka ``technological progress''
+\end{itemize}
+\end{itemize}
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}[t]
+\frametitle{Step \#1: Measure $K$ and $L$}
+\begin{itemize}
+\item $K$ is measured as the accumulation of investments (PPE) over time (see previous slides). 
+\bigskip
+\item $L$ is measured in various ways
+\begin{itemize}
+\medskip
+\item Number of people working, e.g. labor force participation multiplied by the population.
+\medskip
+\item Adjusted for how hard they work, e.g. hours worked per person, etc.
+\medskip
+\item Adjusted for how well they work, e.g. education adjusted, etc.
+\end{itemize}
+\end{itemize}
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{frame}[t]
+\frametitle{Step \#2: Measure TFP}
+\begin{itemize}
+\item No direct way to measure TFP.
+\bigskip
+\item Solution: Infer growth in TFP as a residual. All the growth in output \textbf{NOT} accounted for by growth in inputs.\ldots
+\begin{eqnarray*}
+A = \frac{Y }{K^{\alpha}L^{1-\alpha}} 
+\end{eqnarray*}
+\bigskip
+\item Often called the ``Solow residual'' after Robert Solow who first showed how to measure it.
+\end{itemize}
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{frame}[t]
+\frametitle{Step \#3: Log Difference the Production Function}
+\begin{itemize}
+\item From the production function, log difference everything. 
+\medskip
+\item And from our previous steps we can measure each component.
+\begin{eqnarray*}
+\Delta \log Y = & \underbrace{\Delta \log A}_{\mbox{Change in Tehcnology}} \dots \\
+\\ 
+& +  \underbrace{\alpha \times (\Delta \log K)}_{\mbox{Change in Capital}} \dots \\
+\\
+\vspace{1cm}
+& + \underbrace{(1-\alpha)\times(\Delta \log L)}_{\mbox{Change in Labor}} 
+\end{eqnarray*}
+\end{itemize}
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{frame}[t]
+\frametitle{Growth in Living Standards in the US\ldots}
+\begin{itemize}
+\item Since the recession, real wages ($W/P$) have grown very little? Why? How would you use these tools to answer this question.
+\bigskip
+\item Prof. Robert Gordon's new book ``The Rise and Fall of American Growth: The U.S. Standard of Living Since the Civil War''
+\begin{itemize}
+\medskip
+\item Argues that technology will not advance as it has in the past.
+\medskip
+\item This implies slower growth in living standards. Why?
+\medskip
+\item What do you think?
+\end{itemize}
+\end{itemize}
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{frame}[t]
+\frametitle{Growth in Living Standards}
+\begin{itemize}
+\item Prior results were all about growth in total GDP. Can do the same thing on per worker or per capita basis\ldots
+\medskip
+\begin{eqnarray*}
+\Delta \log \frac{Y}{L} = & \underbrace{\Delta \log A}_{\mbox{Change in Tehcnology}} \dots \\
+\\
+& +  \underbrace{\alpha \times \left(\Delta \log \frac{K}{L} \right)}_{\mbox{Change in Capital per Worker}}\\
+\end{eqnarray*}
+\bigskip
+\item Ok, how would you connect this with standard of living?
+\end{itemize}
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{frame}[t]
+\frametitle{Problem Set \#2: Growth in China}
+\begin{itemize}
+\item Problem Set \#2. You do this for China.
+\end{itemize}
+\end{frame}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{frame}[t]
+\frametitle{Important Questions to Think About\ldots}
+\begin{itemize}
+\item If most of growth is projected to come from capital, is this good or worrying? Why or why not?
+\bigskip
+\item If most of growth is projected to come from TFP, is this good or worrying? Why or why not?
+\bigskip
+\item Can you connect your answers to core principles about the production function?
+\end{itemize}
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\end{document} 

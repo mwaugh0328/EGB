@@ -92,6 +92,7 @@ Read/Do for class:
 Read/Do for class:
   - Chapter 3 from Mankiw
   - [Demand Side Slides](https://github.com/mwaugh0328/EGB/raw/master/materials/week3/week3.national_income_demand.pdf)
+  - [In class exercise](https://github.com/mwaugh0328/EGB/blob/master/materials/week3/week3.egb_economics_of_gov_spending.pdf)
   - [In class exercise](https://github.com/mwaugh0328/EGB/blob/master/materials/week3/week3.egb_economics_of_maga.pdf)
   - [Solutions here]()
 
@@ -106,17 +107,9 @@ Read/Do for class:
 **Using the production function to understand growth I.**
 Read/Do for class:
   - Appendix of Chapter 9 "Accounting for the Sources of Economic Growth"
-  - [Slides](https://github.com/mwaugh0328/EGB/raw/master/materials/week4/week4.accounting_growth.pdf)
-
-**Understanding economic growth II**
-
-Read/Do for class:
-  - Chapter 9 (Only Sections 9-2 and 9-3)
-  - [Slides](https://github.com/mwaugh0328/EGB/raw/master/materials/week5/week5.balanced_growth.pdf)
+  - [Slides](https://github.com/mwaugh0328/EGB/raw/master/materials/week4/week4.growth_modified.pdf)
   - [Problem Set #2](https://github.com/mwaugh0328/EGB/raw/master/materials/problem_sets/egb.ps2.pdf)
-    - [Data Set Here](https://github.com/mwaugh0328/EGB/raw/master/materials/data/egb_pwt_china.xlsx)
-
-  **Quiz on Economic Growth.**
+  - [Data Set Here](https://github.com/mwaugh0328/EGB/raw/master/materials/data/egb_pwt_china.xlsx)
 
 ---
 
