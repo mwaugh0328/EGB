@@ -7,7 +7,7 @@
 
 What is TFP? Why is it important? The key issue is that this is the one thing that is able to beat diminishing returns (which capital and labor are subject too). And without imporovements, living standers...think real wages will not increase. Do you know why...how do wages relate to Y/L...
 
-Here is a short video discussing a new book that tackles the question about the future of US (and other developed countries) economic growth and specifically technological change (TFP.)
+Here is a short video discussing a recent book that tackles the question about the future of US (and other developed countries) economic growth and specifically technological change (TFP.)
 
 The logic of the author's argument fits very well with what we have been doing in class the last couple of days.  We showed how growth is connected with growth in productivity. His argument is that in the past we saw amazing technological innovations that increased productivity and, thus, GDP and leads to rising living standards. 
 
