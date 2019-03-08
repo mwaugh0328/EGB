@@ -93,7 +93,7 @@ Read/Do for class:
   - Chapter 3 from Mankiw
   - [Demand Side Slides](https://github.com/mwaugh0328/EGB/raw/master/materials/week3/week3.national_income_demand.pdf)
   - [In class exercise](https://github.com/mwaugh0328/EGB/blob/master/materials/week3/week3.egb_economics_of_gov_spending.pdf)
-  - [OLD exercise with solutions](https://github.com/mwaugh0328/EGB/blob/master/materials/week3/economics_of_maga_solutions.pdf)
+  - [OLD exercise with solutions](https://github.com/mwaugh0328/EGB/blob/master/materials/practice_material/economics_of_maga_solutions.pdf)
 
 
 **Quiz on Chapter 3**
