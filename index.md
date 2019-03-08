@@ -81,7 +81,7 @@ Read/Do for class 2/11:
 Read/Do for class:
   - [Slides](https://github.com/mwaugh0328/EGB/raw/master/materials/week2/week2.national_income.pdf)
   - [In class exercise](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/egb_economics_of_wall.pdf)
-  - [Solutions here]()
+  - [OLD exercises with solutions](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/old_practice_mpl_mpk.pdf)
 
 ---
 
@@ -93,8 +93,8 @@ Read/Do for class:
   - Chapter 3 from Mankiw
   - [Demand Side Slides](https://github.com/mwaugh0328/EGB/raw/master/materials/week3/week3.national_income_demand.pdf)
   - [In class exercise](https://github.com/mwaugh0328/EGB/blob/master/materials/week3/week3.egb_economics_of_gov_spending.pdf)
-  - [In class exercise](https://github.com/mwaugh0328/EGB/blob/master/materials/week3/week3.egb_economics_of_maga.pdf)
-  - [Solutions here]()
+  - [OLD exercise with solutions](https://github.com/mwaugh0328/EGB/blob/master/materials/week3/economics_of_maga_solutions.pdf)
+
 
 **Quiz on Chapter 3**
 - [https://goo.gl/forms/6whrv2jvTfjELLRr2](https://goo.gl/forms/6whrv2jvTfjELLRr2)
