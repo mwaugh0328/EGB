@@ -2,6 +2,20 @@
 #### [Economics of Global Business](index.md)
 
 ---
+
+**More on technological change, growth and connecting it with class**
+
+What is TFP? Why is it important? The key issue is that this is the one thing that is able to beat diminishing returns (which capital and labor are subject too). And without imporovements, living standers...think real wages will not increase. Do you know why...how do wages relate to Y/L...
+
+Here is a short video discussing a new book that tackles the question about the future of US (and other developed countries) economic growth and specifically technological change (TFP.)
+
+The logic of the author's argument fits very well with what we have been doing in class the last couple of days.  We showed how growth is connected with growth in productivity. His argument is that in the past we saw amazing technological innovations that increased productivity and, thus, GDP and leads to rising living standards. 
+
+Today---his argument goes---technological advances such as smart phones,  improvements in computers, social media, artificial intelligence, etc., will have less of an impact on productivity growth than the innovations in the early 20th century (e.g. flush toilets, electricity). Thus, we should NOT expect growth in living standards like we experience in the past 100 years. What do you think?
+
+[![PBS](https://img.youtube.com/vi/Fcw4iO3Xx8E/0.jpg)](https://www.youtube.com/watch?v=Fcw4iO3Xx8E)
+
+---
 **Week in Review (3/1)**
 
 It went by fast...a couple of things:
@@ -12,7 +26,7 @@ It went by fast...a couple of things:
 
 - In the T/Th class we walked through some examples in the context of the GND. So what does an increase in government spending do, well it lowers public savings as the government is buying more stuff. National savings equals public and private savings, so this means that national savings will fall. Then with the bullet above, this implies that the quantity of investment in the economy falls.<br>
 <br>
-This is what economist would call "crowding out" where public economic activity replaces private economic activity, in this case higher G means less investment. Empirically how much crowding out takes place is open to debate, but this insight is very important to keep in mind when thinking about government spending. 
+This is what economist would call "crowding out" where public economic activity replaces private economic activity, in this case higher G means less investment. Empirically how much crowding out takes place is open to debate, but this insight is very important to keep in mind when thinking about government spending.
 
 ---
 **Week in Review (2/22)**
