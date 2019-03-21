@@ -1,11 +1,30 @@
 # The EGB BLOG
 #### [Economics of Global Business](index.md)
 
+**Take a step back and reflect on how much you have learned...**
+
+After the first midterm is always a good time to reflect on the growth you have achieved. We've covered a bunch of stuff and in the videos below I hope you see how much you now understand about the economy.
+
+The videos below are from a 60 minutes interview with the Chairman of the FOMC, Jay Powell. We will learn a lot more about him and how monetary policy is set (this was all in the headlines this week), but let's hear what he as to say about the economy.
+
+The full interview is below (its not too long 14 mins) and worth watching the whole thing. What is interesting from our standpoint is minute 3:30 and on...the question to him is about how fast can our economy grow. How would you answer that question (before you too the class and now)?  How does Chairman Powell answer it?
+
+[![60mins](https://img.youtube.com/vi/ZrOkD63e7TM/0.jpg)](https://www.cbsnews.com/news/full-transcript-60-minutes-interview-with-fed-chair-jerome-powell/)
+
+
+Here is a clip and he is talking about labor force participation (and lack there of it) and it's consequences.
+
+[![60mins](https://img.youtube.com/vi/ZrOkD63e7TM/1.jpg)](https://youtu.be/ZrOkD63e7TM?list=PLI1yx5Z0Lrv6hajRjkIZJ_tNjKeU2-mLo)
+
+Again, just think about the idea that when people work, we all benefit. And it's also worth reflecting on the consequences of when people do not participate in the labor market.
+
+Really cool stuff. Look forward to talking with you about these issues and more after the break.
+
 ---
 
 **More on technological change, growth and connecting it with class**
 
-What is TFP? Why is it important? The key issue is that this is the one thing that is able to beat diminishing returns (which capital and labor are subject too). And without imporovements, living standers...think real wages will not increase. Do you know why...how do wages relate to Y/L...
+What is TFP? Why is it important? The key issue is that this is the one thing that is able to beat diminishing returns (which capital and labor are subject too). And without improvements, living standers...think real wages will not increase. Do you know why...how do wages relate to Y/L...
 
 Here is a short video discussing a recent book that tackles the question about the future of US (and other developed countries) economic growth and specifically technological change (TFP.)
 
