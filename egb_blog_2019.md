@@ -7,7 +7,7 @@ After the first midterm is always a good time to reflect on the growth you have 
 
 The videos below are from a 60 minutes interview with the Chairman of the FOMC, Jay Powell. We will learn a lot more about him and how monetary policy is set (this was all in the headlines this week), but let's hear what he as to say about the economy.
 
-The full interview is below (its not too long 14 mins) and worth watching the whole thing. What is interesting from our standpoint is minute 3:30 and on...the question to him is about how fast can our economy grow. How would you answer that question (before you too the class and now)?  How does Chairman Powell answer it?
+The full interview is below (its not too long 14 mins) and worth watching the whole thing. What is interesting from our standpoint is minute 3:30 and on...the question to him is about how fast can our economy grow. How would you answer that question before you started the class? And now?  How does Chairman Powell answer it?
 
 [![60mins](https://img.youtube.com/vi/ZrOkD63e7TM/0.jpg)](https://www.cbsnews.com/news/full-transcript-60-minutes-interview-with-fed-chair-jerome-powell/)
 
