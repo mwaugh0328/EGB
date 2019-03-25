@@ -138,10 +138,10 @@ Read/Do for class:
 
 Read/Do for class:
   - Notes from Stern
-  - Slides: [Intro to Trade and First half of Ricardo](https://github.com/mwaugh0328/EGB/raw/master/materials/week7/week7.trade_ricardo_start.pdf), [Finish up Ricardian Model](https://github.com/mwaugh0328/EGB/raw/master/materials/week7/week7.trade_ricardo_finish.pdf)
+  - Slides: [Intro to Trade](https://github.com/mwaugh0328/EGB/raw/master/materials/week7/week7.trade_ricardo_start.pdf), [Finish up Ricardian Model]()
   - [In class practice](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/egb.ricardo_model_inclass.pdf) [solutions]()
 
-**Quiz on Ricardian Model**
+
 
 ---
 
@@ -156,7 +156,7 @@ Read/Do for class:
 
   - [In class practice.](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/egb.mc_model_inclass.pdf) [Solutions.]()
 
-**Quiz on Firms in International Trade**
+**Quiz on Ricardian Model**
 
 ---
 
@@ -173,6 +173,8 @@ Read/Do for class:
 - [Slides](https://github.com/mwaugh0328/EGB/raw/master/materials/week10/week10.trade_imbalances.pdf)
 
 - [In class practice](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/egb.revisiting_trump_inclass.pdf) --- [Solutions]()
+
+**Quiz on Firms in International Trade**
 
 ---
 
