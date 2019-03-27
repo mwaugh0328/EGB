@@ -126,6 +126,7 @@ Read/Do for class:
   -  [Overview and details for Midterm **Monday / Wednesday Class**](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/midterm_review_1_spring2019_mw.pdf)
   - [Overview and details for Midterm **Tuesday / Thursday Class**](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/midterm_review_1_spring2019_tth.pdf)
 
+- [Solution to Midterm (M/W class)](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/midterm_one_solutions_mw.pdf)
 ---
 
 ### Spring Break
