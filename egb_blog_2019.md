@@ -1,6 +1,33 @@
 # The EGB BLOG
 #### [Economics of Global Business](index.md)
 
+**How to do better on exams---Pro Tip Edition**
+
+After the exam I talked with some of the students that performed well on the exam and asked "how did you study, what helped" and here are some of their thoughts (with light editing):
+
+- "I think that doing the practice exams early on to figuring out what concepts I understood or was confused about was very helpful.  The practice exams also helped me understand how to approach the questions in terms of syntax, which is important for me because a lot of times on exams my main issue with tests is understanding what the question is actually asking since every professor/exam tends to have different ways of wording things.  One thing that really saved me on the exam was going over the GDP as value added/wages/consumption worksheet from class because it not only helped with the final question but also tied in with all of the concepts related to that chapter."
+
+- "I studied by first reviewing all the slides and making a cheat sheet. I also did all of the problems that were given. I felt that the practice midterms were definitely the most helpful. Personally, I did all the practice midterms once before the day of the exam, and then again right before the exam."
+
+- "All I did was looking at all the lecture notes and doing all the in-class excises. Then I did the practice exam twice, once during the review and once before the exam."
+
+
+- "So on top of the obvious tips of looking over the slides, I really tried to understand why certain things happened opposed to just what should happen. I also studied with people and would try to discuss the concepts on a deeper level. In general, I just try to understand why because you can only apply the theories if you understand why."
+
+- "My cheat sheet is very formula-heavy, which is the way that I interpret the relationships between the variables. I also think that's the best way to explain my answers clearly. If I'm particularly confused about a concept, I will first apply the formula, then think about the problem in a common-sense manner to see if my interpretation makes sense."
+
+
+- "In regards to the tips of studying, I think asking questions and doing the practice exams are the two most important things. After finishing the practice exam, I spent time trying to understand the logic of the questions I got wrong and make sure I know how to solve similar questions. When I don't understand something, I either ask you or my friends for help until I understand it."
+
+- "I did exactly what you said. You told us to use the practice exams as a guide rather than a benchmark test and to read the textbook and notes. Other than that, I really tried to understand the assumptions we have made throughout class. For instance, on the TFP problem, it was really crucial for me to understand that the production function has constant returns to scale and that labor and capital are fixed. So the problem was really about understanding what it means to be productive- increased output with the same level of inputs. I used the same intuition that you did...using the equations MPL and MPK with increased Y and same inputs to find the conclusion"
+
+A couple of things that I see in these answers. One is using the practice material in a way to really understand the logic behind the answers. Its more that just seeing things, but asking yourself, do I see how this stuff fits together. Another theme that I like was working with others. Verbally explaining things to each other, working through the kinks is a great way to work towards a better understanding of what is going on.
+
+I hope this helps!
+
+
+---
+
 **Take a step back and reflect on how much you have learned...**
 
 After the first midterm is always a good time to reflect on the growth you have achieved. We've covered a bunch of stuff and in the videos below I hope you see how much you now understand about the economy.
