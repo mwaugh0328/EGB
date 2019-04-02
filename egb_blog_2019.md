@@ -1,6 +1,8 @@
 # The EGB BLOG
 #### [Economics of Global Business](index.md)
 
+---
+
 **How to do better on exams---Pro Tip Edition**
 
 After the exam I talked with some of the students that performed well on the exam and asked "how did you study, what helped" and here are some of their thoughts (with light editing):
