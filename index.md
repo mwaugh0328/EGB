@@ -142,9 +142,6 @@ Read/Do for class:
 Read/Do for class:
   - Notes from Stern
   - Slides: [Intro to Trade](https://github.com/mwaugh0328/EGB/raw/master/materials/week7/week7.trade_ricardo_start.pdf), [Finish up Ricardian Model](https://github.com/mwaugh0328/EGB/raw/master/materials/week7/week7.trade_ricardo_end.pdf)
-  - [In class practice](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/egb.ricardo_model_inclass.pdf) [solutions]()
-
-
 
 ---
 
@@ -152,6 +149,8 @@ Read/Do for class:
 
 **[Quiz on Ricardian Model](https://forms.gle/z154Lz4pgRhgJS4LA)**
 - Must complete by **April 7** end of day.
+
+- [Practice](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/egb.ricardo_model_inclass.pdf) [solutions](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/egb.ricardo_model_inclass_solutions.pdf)
 
 ---
 
