@@ -150,6 +150,11 @@ Read/Do for class:
 
 ### Week # 10: 4/1- 4/4
 
+**[Quiz on Ricardian Model](https://forms.gle/z154Lz4pgRhgJS4LA)**
+- Must complete by **April 7** end of day.
+
+---
+
 **Firms in International Trade**
 
 Read/Do for class:
@@ -158,8 +163,6 @@ Read/Do for class:
   - [Slides Closed Economy](https://github.com/mwaugh0328/EGB/raw/master/materials/week9/week9.trade_monopolistic_competition_I.pdf) --- [Slides Open Economy](https://github.com/mwaugh0328/EGB/raw/master/materials/week9/week9.trade_monopolistic_competition_II.pdf)
 
   - [In class practice.](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/egb.mc_model_inclass.pdf) [Solutions.]()
-
-**Quiz on Ricardian Model**
 
 ---
 
