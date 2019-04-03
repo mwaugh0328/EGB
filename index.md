@@ -150,7 +150,8 @@ Read/Do for class:
 **[Quiz on Ricardian Model](https://forms.gle/z154Lz4pgRhgJS4LA)**
 - Must complete by **April 7** end of day.
 
-- [Practice](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/egb.ricardo_model_inclass.pdf) [solutions](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/egb.ricardo_model_inclass_solutions.pdf)
+- [Ricardian Model Practice](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/egb.ricardo_model_inclass.pdf)
+- [Solutions](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/egb.ricardo_model_inclass_solutions.pdf)
 
 ---
 
