@@ -2,6 +2,11 @@
 #### [Economics of Global Business](index.md)
 
 ---
+**Fall Economics Electives**
+
+Interested in more economics. [Here](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/Fall_classes.pdf) is the departments selections of electives. Feel free to ask me questions about what may be of interest.
+
+---
 
 **How to do better on exams---Pro Tip Edition**
 
