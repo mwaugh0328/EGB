@@ -2,6 +2,27 @@
 #### [Economics of Global Business](index.md)
 
 ---
+**Seeing Comparative Advantage in Action**
+
+In class we talked about [the article regarding NAFTA (and Trump's plan to scrap it)](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/nafta_nyt.pdf). This article is great as I think it really highlights what specialization according to comparative advantage looks like. Here are some choice quotes to think through:
+
+ - "Mexican workers in a Foxconn facility assemble Dell computers that were designed in Texas and will be sold all over the world. Low labor costs keep Dell on a competitive footing with global competitors like China’s Lenovo. Because of that, Dell can employ thousands of highly paid engineers and salespeople in the United States."
+
+- "If a product uses really sophisticated materials like high-strength steels and advanced composites, and more sophisticated processes,” Mr. Swiecki said, there’s a better chance you can find the people with the skills needed in the United States or Canada. Meanwhile, the lower price of labor-intensive parts imported from Mexico helps control the cost of the overall automobile and makes it more competitive with cars built in Europe or Asia.""
+
+In both these examples, we (the US) specialize according to our comparative advantage: engineering, sales, intricate production processes. Why? we have high levels of education and skill. Mexico specializes in assembly, because they are low skill tasks. Yes, we could do both task very effectively, but we are better off by specializing in what we are really good at.
+
+While this all is great. We should not forget that this pattern of specialization comes with costs...principally the displaced workers who do not have the comparative advantage. Here is the quote:
+
+- "it’s fine to say that Dell is a more competitive, successful company by
+assembling computers in Juarez, which creates more high-paying jobs for the people
+who design and sell those computers. But that isn’t much solace if you were one of
+the 905 people who lost jobs at the plant in Winston-Salem, N.C., doing that same
+work."
+
+Ok so how do we think about this. As the article suggests, the narrative that trade hurts some people is not wrong. But the solution is **not** to get rid of NAFTA, but find ways help those who are disadvantaged from trade while preserving the gains that come with it. 
+
+---
 **Fall Economics Electives**
 
 Interested in more economics. [Here](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/Fall_classes.pdf) is the departments selections of electives. Feel free to ask me questions about what may be of interest.
