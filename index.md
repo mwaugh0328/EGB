@@ -171,7 +171,8 @@ Read/Do for class:
 
 - [In class practice](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/egb.revisiting_trump_inclass.pdf) --- [Solutions]()
 
-**Quiz on International Capital Flows**
+**[Quiz on International Capital Flows](https://forms.gle/m6SqeKXxoMZnyBko8)**
+- Must complete by **April 16** end of day.
 
 ---
 
