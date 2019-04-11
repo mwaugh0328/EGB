@@ -1,6 +1,24 @@
 # The EGB BLOG
 #### [Economics of Global Business](index.md)
 
+**Seeing the cost of trade policy in action**
+
+In my T/Th class we discussed these [slides](https://github.com/mwaugh0328/EGB/blob/master/materials/practice_material/america_first_talk.pdf) from my trip in Argentina in 2016/2017 with my family. Did not discuss this in the M/W class, but important to look at.
+
+Here is the amazing thing. This slide deck has pictures of identical products. One in a [toystore in Moreno](https://goo.gl/maps/tfhdP8xW9M32) just outside of Buenos Aries. Look through it, they are shocking. 500$ for a lego city fire boat! 50 in the US!
+
+I bring this up as it highlights some aspects that anti-trade policy can lead too that lie beyond the standard argument in the Ricardian model. Here is the issue:
+
+- One thing that trade leads to is more variety. What you do not see in the shelves is that variety is quite limited. It is not like what you see when you would walk into a Walmart. Variety is good in-and-of itself (trade allows me to try new things!), but it has extra benefits:
+
+- More variety leads to competition. And more competition leads to lower prices. In the Argentina case, I think this is the core issue. Yes there is about a 30-40 percent tariff on toys. There is also a value added tax of about 20 percent. But this does not account for the full price difference. Why is the price so high? It has to be about competition. The tariff restricts competition, this leads to less variety, and in turn allows suppliers to charge higher prices. Think, the toy store owner says "this is the one lego I got, and if you want it, this is the price...500$"
+
+- The other thing not seen in the photos is the type of competition that exits. In Argentina, there is a domestic "lego-like". These are much cheaper and poorer quality. Here is the issue, the lack of competition allows producers like this survive. And this is not what we would like from an efficiency point of view as the best allocation would have people, capital, etc. working in the most productive/high quality firms. 
+
+One final thought. All these mechanisms are different relative to the Ricardian model of trade. Their, trade is about getting lower prices for the same goods. And this works purely through comparative advantage. This is nice, but as this discussion above argues, trade also affects the nature of competition and lets to good benefits.
+
+
+
 ---
 **Seeing Comparative Advantage in Action**
 
@@ -20,7 +38,7 @@ who design and sell those computers. But that isn’t much solace if you were on
 the 905 people who lost jobs at the plant in Winston-Salem, N.C., doing that same
 work."
 
-Ok so how do we think about this. As the article suggests, the narrative that trade hurts some people is not wrong. But the solution is **not** to get rid of NAFTA, but find ways help those who are disadvantaged from trade while preserving the gains that come with it. 
+Ok so how do we think about this. As the article suggests, the narrative that trade hurts some people is not wrong. But the solution is **not** to get rid of NAFTA, but find ways help those who are disadvantaged from trade while preserving the gains that come with it.
 
 ---
 **Fall Economics Electives**
