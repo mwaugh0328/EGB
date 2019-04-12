@@ -155,22 +155,13 @@ Read/Do for class:
 
 ---
 
-**Firms in International Trade**
-
-Read/Do for class:
-  - [Notes from Stern](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/firms_trade_notes.pdf)
-
-  - [Slides Closed Economy](https://github.com/mwaugh0328/EGB/raw/master/materials/week9/week9.trade_monopolistic_competition_I.pdf) --- [Slides Open Economy](https://github.com/mwaugh0328/EGB/raw/master/materials/week9/week9.trade_monopolistic_competition_II.pdf)
-
-  - [In class practice.](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/egb.mc_model_inclass.pdf) [Solutions.]()
-
----
-
 ### Week # 11: 4/8-4/11
 
 **Winners and Losers from Trade, "America First Policies"**
 
 - [Slides](https://github.com/mwaugh0328/EGB/blob/master/materials/practice_material/america_first_talk.pdf)
+
+- See blog discussion on this.
 
 **Trade Imbalances and Capital Flows**
 
@@ -180,7 +171,8 @@ Read/Do for class:
 
 - [In class practice](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/egb.revisiting_trump_inclass.pdf) --- [Solutions](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/egb.trump_inclass_solutions.pdf)
 
-**Quiz on Firms in International Trade**
+**[Quiz on International Capital Flows](https://forms.gle/m6SqeKXxoMZnyBko8)**
+- Must complete by **April 16** end of day.
 
 ---
 
