@@ -180,7 +180,9 @@ Read/Do for class:
 
 **Midterm #2** In class: Section .03 on Wednesday 4/17, Section .01 on Thursday 4/18
 
-- [Review](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/midterm_review_2_spring2018.pdf)
+- [Monday/Wednesday Review](https://github.com/mwaugh0328/EGB/raw/master/materials/midterm2_review/midterm_review_2_spring2019_mw.pdf)
+
+- [Tuesday/Thursday Review]()
 
  - [Practice Exam (Spring 2016)](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/midterm2_egb_spring2016_solutions.pdf)  [Copy with no solutions](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/midterm2_egb_spring16_exam_B.pdf)
 
