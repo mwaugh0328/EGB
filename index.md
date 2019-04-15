@@ -169,7 +169,7 @@ Read/Do for class:
     - Mankiw Chapter 6 (Only Sections 6-1 and 6-2)
 - [Slides](https://github.com/mwaugh0328/EGB/raw/master/materials/week10/week10.trade_imbalances.pdf)
 
-- [In class practice](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/egb.revisiting_trump_inclass.pdf) --- [Solutions]()
+- [In class practice](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/egb.revisiting_trump_inclass.pdf) --- [Solutions](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/egb.trump_inclass_solutions.pdf)
 
 **[Quiz on International Capital Flows](https://forms.gle/m6SqeKXxoMZnyBko8)**
 - Must complete by **April 16** end of day.
