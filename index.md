@@ -182,7 +182,7 @@ Read/Do for class:
 
 - [Monday/Wednesday Review](https://github.com/mwaugh0328/EGB/raw/master/materials/midterm2_review/midterm_review_2_spring2019_mw.pdf)
 
-- [Tuesday/Thursday Review]()
+- [Tuesday/Thursday Review](https://github.com/mwaugh0328/EGB/raw/master/materials/midterm2_review/midterm_review_2_spring2019_tth.pdf)
 
  - [Practice Exam (Spring 2016)](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/midterm2_egb_spring2016_solutions.pdf)  [Copy with no solutions](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/midterm2_egb_spring16_exam_B.pdf)
 
