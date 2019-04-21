@@ -1,6 +1,30 @@
 # The EGB BLOG
 #### [Economics of Global Business](index.md)
 
+---
+**Reflection time and why economics is hard**
+
+After the exam it's always a good time to be thinking and ask ourselves why are we doing what we are doing.
+
+Well the Wall Street Journal never disappoints. Last week there was [this article](https://www.wsj.com/articles/what-you-need-to-be-on-the-fed-and-it-isnt-a-ph-d-11555252121) about the role of PhD economists (like myself) in making policy. This is all in the context of recent announcements of the Trump administration to appoint Stephen Moore and Herman Cain (both without high-level, formal economic training) to the Borad of the Federal Reserve.
+
+Ok, so what's the big deal. The issue is about some perception of elitisim and having a PhD puts people out of touch...hence we don't want those guys in charge. Well here is a nice quote from Stephen Moore espousing this view:
+
+"Mr. Moore has a master’s degree in economics but despises the Ph.D. economists who staff the Fed: [Moore said] “It’s filled with hundreds of economists who are worthless, who have the wrong model in their mind,” he said in an interview last year. “[Moore said] They should all be fired and…replaced by good economists.”
+
+Jeez, that makes me feel good. :(
+
+But the article correctly points out the key issue:
+
+"The debate, rather, is whether economics and economic models are useful tools for central bankers. Economics isn’t just complex equations and forecasts. **It is also a way of disciplining your thinking, making sure things add up, asking when one variable changes if others are also changing, ensuring your assumptions and predictions don’t contradict each other, and testing your hypotheses against alternative hypotheses and evidence.** Plenty of non-economists adhere to that discipline and plenty of degree-carrying economists don’t."
+
+Read that in bold. Read it again. This is the point of EGB. Read the stuff in bold again.
+
+This is also why it is hard. It's not about the Cobb-Douglas production function (blah blah blah)... It is hard because we are having to train our thought process about the economy to work in a systematic and coherent way. That's the goal. And guess what, we are making good progress towards it. 
+
+
+---
+
 **Seeing the cost of trade policy in action**
 
 In my T/Th class we discussed these [slides](https://github.com/mwaugh0328/EGB/blob/master/materials/practice_material/america_first_talk.pdf) from my trip in Argentina in 2016/2017 with my family. Did not discuss this in the M/W class, but important to look at.
@@ -13,7 +37,7 @@ I bring this up as it highlights some aspects that anti-trade policy can lead to
 
 - More variety leads to competition. And more competition leads to lower prices. In the Argentina case, I think this is the core issue. Yes there is about a 30-40 percent tariff on toys. There is also a value added tax of about 20 percent. But this does not account for the full price difference. Why is the price so high? It has to be about competition. The tariff restricts competition, this leads to less variety, and in turn allows suppliers to charge higher prices. Think, the toy store owner says "this is the one lego I got, and if you want it, this is the price...500$"
 
-- The other thing not seen in the photos is the type of competition that exits. In Argentina, there is a domestic "lego-like". These are much cheaper and poorer quality. Here is the issue, the lack of competition allows producers like this survive. And this is not what we would like from an efficiency point of view as the best allocation would have people, capital, etc. working in the most productive/high quality firms. 
+- The other thing not seen in the photos is the type of competition that exits. In Argentina, there is a domestic "lego-like". These are much cheaper and poorer quality. Here is the issue, the lack of competition allows producers like this survive. And this is not what we would like from an efficiency point of view as the best allocation would have people, capital, etc. working in the most productive/high quality firms.
 
 One final thought. All these mechanisms are different relative to the Ricardian model of trade. Their, trade is about getting lower prices for the same goods. And this works purely through comparative advantage. This is nice, but as this discussion above argues, trade also affects the nature of competition and lets to good benefits.
 
