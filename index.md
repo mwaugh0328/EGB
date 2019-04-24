@@ -194,11 +194,9 @@ Read/Do for class:
 **Money and Banking**
 
 Read/Do for class:
-  - Chapter 4
+  - Chapter 4-1, and chapter 5
 
   - [Money and Inflation](https://github.com/mwaugh0328/EGB/raw/master/materials/week11/week10.money_inflation.pdf)
-
-  - [Banking](https://github.com/mwaugh0328/EGB/raw/master/materials/week11/week10.money_banking.pdf)
 
 **Quiz on Money, Inflation, Banking**
 
