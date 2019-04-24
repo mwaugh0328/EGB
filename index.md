@@ -188,6 +188,8 @@ Read/Do for class:
 
  - [Practice Exam (Fall 2016)](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/solutions_exam2_fall2016.pdf) [Copy with no solutions](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/midterm2_egb_fall16_exam_A.pdf)
 
+- [Solutions Monday Wednesday Exam](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/midterm2_spring2019_solutions_mw.pdf)
+
 ---
 ### Week # 13:  4/22-4/25
 
