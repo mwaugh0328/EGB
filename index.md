@@ -190,6 +190,8 @@ Read/Do for class:
 
 - [Solutions Monday Wednesday Exam](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/midterm2_spring2019_solutions_mw.pdf)
 
+- [Solutions (parts of) Tuesday Thursday Exam](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/midterm2_spring2019_solutions_tth.pdf)
+
 ---
 ### Week # 13:  4/22-4/25
 
