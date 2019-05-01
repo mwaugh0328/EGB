@@ -202,7 +202,10 @@ Read/Do for class:
 
   - [Money and Inflation](https://github.com/mwaugh0328/EGB/raw/master/materials/week11/week10.money_inflation.pdf)
 
-**Quiz on Money, Inflation, Banking**
+**[Quiz on Money, Inflation, Banking](https://forms.gle/C9XdwqV3EPrcgfCZ8)**
+
+- Must complete by **May 6** end of day
+
 
 ---
 
@@ -227,6 +230,8 @@ Read/Do for class:
 
  - [Notes on Taylor Rule](https://github.com/mwaugh0328/EGB/raw/master/materials/week13/taylor_rule_notes.pdf)
 
+ - **Quiz on AS/AD**
+
 ---
 ### Week # 15: 5/6-5/9
 
@@ -235,7 +240,6 @@ Read/Do for class:
 **Finish up**
  - [Review for Final](https://github.com/mwaugh0328/EGB/blob/master/materials/final_review/final_review_2018.pdf)
 
-**Quiz on AS/AD**
 
 - Practice Materials: [Exam.](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/practice_final_egb_2016.pdf) [Exam with Solutions.](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/practice_final_egb_2016_solutions.pdf.pdf) **Warning: This is a slightly different format**
 
