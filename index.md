@@ -218,9 +218,18 @@ Read/Do for class:
 
   - [Aggregate Demand](https://github.com/mwaugh0328/EGB/raw/master/materials/week12/week12.aggregate_demand.pdf)
 
-  - [Aggregate Supply](https://github.com/mwaugh0328/EGB/raw/master/materials/week12/week12.aggregate_supply.pdf)
+
 
   - [Practice AD](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/egb.AD_inclass_solutions.pdf)
+
+
+
+---
+### Week # 15: 5/6-5/9
+
+  - Chapter 10 (Mankiw)
+
+  - [Aggregate Supply](https://github.com/mwaugh0328/EGB/raw/master/materials/week12/week12.aggregate_supply.pdf)
 
 **Putting AS/AD + Monetary Policy all together**
 
@@ -230,12 +239,11 @@ Read/Do for class:
 
  - [Notes on Taylor Rule](https://github.com/mwaugh0328/EGB/raw/master/materials/week13/taylor_rule_notes.pdf)
 
- - **Quiz on AS/AD**
+ **[Quiz on AS/AD](https://forms.gle/k1CUvuwNAezEWg4B7)**
+ 
+ - Must complete before final on May 21st
 
----
-### Week # 15: 5/6-5/9
 
-**Economics of Exchange Rates**
 
 **Finish up**
  - [Review for Final](https://github.com/mwaugh0328/EGB/blob/master/materials/final_review/final_review_2018.pdf)
@@ -248,3 +256,5 @@ Read/Do for class:
 ## REVIEW SESSION on 5/?
 
 ## Final: on 5/21
+
+- [Extra Credit](https://github.com/mwaugh0328/EGB/raw/master/materials/problem_sets/egb.ps5.pdf)
