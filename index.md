@@ -240,7 +240,7 @@ Read/Do for class:
  - [Notes on Taylor Rule](https://github.com/mwaugh0328/EGB/raw/master/materials/week13/taylor_rule_notes.pdf)
 
  **[Quiz on AS/AD](https://forms.gle/k1CUvuwNAezEWg4B7)**
- 
+
  - Must complete before final on May 21st
 
 
@@ -253,8 +253,10 @@ Read/Do for class:
 
 ---
 
-## REVIEW SESSION on 5/?
+## Review sessions on 5/?
 
-## Final: on 5/21
+## Office hours: Generally from 230pm to 6pm, Tuesday - Friday.
+
+## Final: on 5/21, 8am.
 
 - [Extra Credit](https://github.com/mwaugh0328/EGB/raw/master/materials/problem_sets/egb.ps5.pdf)
