@@ -253,10 +253,12 @@ Read/Do for class:
 
 ---
 
-## Review sessions on 5/?
+### Review sessions on 5/?
 
-## Office hours: Generally from 230pm to 6pm, Tuesday - Friday.
+### Office hours:
 
-## Final: on 5/21, 8am.
+Generally from 230pm to 6pm, Tuesday - Friday.
+
+### Final: on 5/21, 8am.
 
 - [Extra Credit](https://github.com/mwaugh0328/EGB/raw/master/materials/problem_sets/egb.ps5.pdf)
