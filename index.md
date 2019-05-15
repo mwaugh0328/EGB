@@ -252,9 +252,13 @@ Read/Do for class:
 
 ---
 
+<<<<<<< HEAD
 ### Review sessions on 5/17
 
 ### Review session on 5/20
+=======
+### Review sessions on 5/20 and 5/17
+>>>>>>> 3ac4a5c9e9bb358685333866b71fb8f8a1c09362
 
 ### Office hours:
 
