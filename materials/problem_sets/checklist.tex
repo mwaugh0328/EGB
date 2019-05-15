@@ -1,0 +1,92 @@
+\documentclass[12pt,pdftex,twoside,letterpaper]{exam}
+\usepackage{amsmath,amssymb, amsthm}
+\usepackage{graphicx}
+\usepackage{color}
+\usepackage{comment}
+\usepackage{layout}
+\usepackage{booktabs}
+\usepackage[flushleft]{threeparttable}
+\usepackage{caption}
+\usepackage{setspace}
+\usepackage{float}
+\usepackage[colorlinks=true,linkcolor=blue,citecolor=blue,urlcolor=blue,bookmarks=false,pdfstartview={FitV}]{hyperref}
+
+%%%%%%%%%%%%%%%%%%%%%%Margins%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage[margin=1.0in]{geometry}
+\setlength{\parindent}{0in}
+\setlength{\parskip}{.09in}
+\raggedbottom
+
+%%%%%%%%%%%%%%%%%%%%Tighten up the lists%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\let\OLDdescription\description
+\renewcommand\description{\OLDdescription\setlength{\itemsep}{-2mm}}
+
+%%%%%%%%%%%%%%%%%%%%%%Headers and Footers%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\pagestyle{headandfoot}
+\runningheadrule
+\firstpageheadrule
+\firstpageheader{\includegraphics[width=0.25\textwidth]{../Figures/stern_black1.pdf}}{}{Economics of Global Business}
+\runningheader{Economics of Global Business}{}{Syllabus: ECON-UB.0011.03/04/05}
+\runningfooter{}{}{}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%Exam class formating%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\printanswers
+\renewcommand{\partlabel}{\thepartno.}
+\renewcommand{\questionshook}{\setlength{\itemsep}{0.2in}}
+\renewcommand{\partshook}{\setlength{\leftmargin}{0.2in}}
+\renewcommand\familydefault{\sfdefault}
+
+\ifprintanswers
+\runningheader{Economics of Global Business}{}{Problem Set Solutions \#1}
+\else
+\runningheader{Economics of Global Business}{}{Problem Set \#3}
+\footer{\bf Revised:  \today}{}{}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%Let Backus fight the good fight, I'm going with LN%%%%%%%%%%%%%%%%%%%
+\renewcommand{\log}{\ln}
+
+\begin{document}
+\centerline{}
+\smallskip
+\centerline{\Large \bf Final Week Checklist}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{itemize}
+\item Taylor Rule problem set. Due end of day Monday 13th.
+\bigskip
+\bigskip
+\item AS/AD quiz. Complete before the final.
+\bigskip
+\bigskip
+\item Review sessions for final.  TBD. Monday (5/20) for sure; possibly one on Friday (5/17).
+\bigskip
+\bigskip
+\item Office hours: After 230, Tuesday-Friday. 
+\bigskip
+\bigskip
+\item Final: Tuesday (5/21) 8AM. Location TBD. 
+\bigskip
+\bigskip
+\item Format of final. 
+\begin{itemize}
+\item 12 multiple choice (8 focused on post midterm \#2 material; 4 focused on important general concepts).\\
+\medskip
+\item 3 long-form questions.\\
+\medskip
+
+1. AS/AD and monetary policy,\\
+\medskip
+
+2. Small open economy Ricardian model (like in midterm \#2) with bonus (if score is larger on this part, get these points for midterm \#2),\\
+
+\medskip
+3. Closed economy ``TFP-like'' question (like in midterm \#1) with possible connection to AS/AD. 
+\end{itemize}
+\bigskip
+\bigskip
+\item Extra credit problem set. Due end of day, May 21th.
+\end{itemize}
+\end{document}

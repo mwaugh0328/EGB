@@ -216,7 +216,7 @@ Read/Do for class:
 Read/Do for class:
   - Chapter 10 (Mankiw)
 
-  - [Aggregate Demand](https://github.com/mwaugh0328/EGB/raw/master/materials/week12/week12.aggregate_demand.pdf)
+  - [Aggregate Demand](https://github.com/mwaugh0328/EGB/raw/master/materials/week12/week11.aggregate_demand.pdf)
 
 
 
@@ -246,19 +246,20 @@ Read/Do for class:
 
 
 **Finish up**
- - [Review for Final](https://github.com/mwaugh0328/EGB/blob/master/materials/final_review/final_review_2018.pdf)
-
+- Final Week Checklist
 
 - Practice Materials: [Exam.](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/practice_final_egb_2016.pdf) [Exam with Solutions.](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/practice_final_egb_2016_solutions.pdf.pdf) **Warning: This is a slightly different format**
 
 ---
 
-### Review sessions on 5/?
+### Review sessions on 5/17
+
+### Review session on 5/20
 
 ### Office hours:
 
 Generally from 230pm to 6pm, Tuesday - Friday.
 
-### Final: on 5/21, 8am.
+### Final: 5/21, 8am.
 
 - [Extra Credit](https://github.com/mwaugh0328/EGB/raw/master/materials/problem_sets/egb.ps5.pdf)
