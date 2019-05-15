@@ -246,19 +246,15 @@ Read/Do for class:
 
 
 **Finish up**
-- Final Week Checklist
+- [Final Week Checklist](https://github.com/mwaugh0328/EGB/raw/master/materials/problem_sets/checklist.pdf)
 
 - Practice Materials: [Exam.](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/practice_final_egb_2016.pdf) [Exam with Solutions.](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/practice_final_egb_2016_solutions.pdf.pdf) **Warning: This is a slightly different format**
 
 ---
 
-<<<<<<< HEAD
 ### Review sessions on 5/17
 
 ### Review session on 5/20
-=======
-### Review sessions on 5/20 and 5/17
->>>>>>> 3ac4a5c9e9bb358685333866b71fb8f8a1c09362
 
 ### Office hours:
 
