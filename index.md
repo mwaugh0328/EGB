@@ -248,6 +248,8 @@ Read/Do for class:
 **Finish up**
 - [Final Week Checklist](https://github.com/mwaugh0328/EGB/raw/master/materials/problem_sets/checklist.pdf)
 
+- [AS/AD Practice](https://github.com/mwaugh0328/EGB/raw/master/materials/problem_sets/as_ad_checklist.pdf)
+
 - Practice Materials: [Exam.](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/practice_final_egb_2016.pdf) [Exam with Solutions.](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/practice_final_egb_2016_solutions.pdf.pdf) **Warning: This is a slightly different format**
 
 ---
