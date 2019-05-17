@@ -1,0 +1,80 @@
+\documentclass[12pt,pdftex,twoside,letterpaper]{exam}
+\usepackage{amsmath,amssymb, amsthm}
+\usepackage{graphicx}
+\usepackage{color}
+\usepackage{comment}
+\usepackage{layout}
+\usepackage{booktabs}
+\usepackage[flushleft]{threeparttable}
+\usepackage{caption}
+\usepackage{setspace}
+\usepackage{float}
+\usepackage[colorlinks=true,linkcolor=blue,citecolor=blue,urlcolor=blue,bookmarks=false,pdfstartview={FitV}]{hyperref}
+
+%%%%%%%%%%%%%%%%%%%%%%Margins%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage[margin=1.0in]{geometry}
+\setlength{\parindent}{0in}
+\setlength{\parskip}{.09in}
+\raggedbottom
+
+%%%%%%%%%%%%%%%%%%%%Tighten up the lists%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\let\OLDdescription\description
+\renewcommand\description{\OLDdescription\setlength{\itemsep}{-2mm}}
+
+%%%%%%%%%%%%%%%%%%%%%%Headers and Footers%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\pagestyle{headandfoot}
+\runningheadrule
+\firstpageheadrule
+\firstpageheader{\includegraphics[width=0.25\textwidth]{../Figures/stern_black1.pdf}}{}{Economics of Global Business}
+\runningheader{Economics of Global Business}{}{Syllabus: ECON-UB.0011.03/04/05}
+\runningfooter{}{}{}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%Exam class formating%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\printanswers
+\renewcommand{\partlabel}{\thepartno.}
+\renewcommand{\questionshook}{\setlength{\itemsep}{0.2in}}
+\renewcommand{\partshook}{\setlength{\leftmargin}{0.2in}}
+\renewcommand\familydefault{\sfdefault}
+
+\ifprintanswers
+\runningheader{Economics of Global Business}{}{Problem Set Solutions \#1}
+\else
+\runningheader{Economics of Global Business}{}{Problem Set \#3}
+\footer{\bf Revised:  \today}{}{}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%Let Backus fight the good fight, I'm going with LN%%%%%%%%%%%%%%%%%%%
+\renewcommand{\log}{\ln}
+
+\begin{document}
+\centerline{}
+\smallskip
+\centerline{\Large \bf Practice on AS/AD and Monetary Policy}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\centerline{\bf Positive Supply Shock}
+\begin{itemize}
+\item Step one: What would a positive SRAS shock look like? How would you illustrate it? How would GDP, Unemployment, Inflation, respond?
+\bigskip
+\bigskip
+\item Step two: If the FED did nothing, what would happen? Do you understand the mechanism that pushes the economy back to a long-run equilibrium?
+\bigskip
+\bigskip
+\item Step three: If the FED were to do something, what should it do? Important: HOW would it move the money supply, e.g. what are the mechanics behind the operation, how would interest rates change?
+\end{itemize}
+\centerline{\bf Positive Demand Shock}
+\begin{itemize}
+\item Step one: What would a positive demand shock look like? How would you illustrate it? How would GDP, Unemployment, Inflation, respond? 
+\bigskip
+\bigskip
+\item Step two: If the FED did nothing, what would happen? Do you understand the mechanism that pushes the economy back to a long-run equilibrium?
+\bigskip
+\bigskip
+\item Step three: If the FED were to do something, what should it do? Important: HOW would it move the money supply, e.g. what are the mechanics behind the operation, how would interest rates change?
+\end{itemize}
+\bigskip
+\bigskip
+\textbf{Final Thoughts.}Can you work through the same instances with a negative supply shock? With a negative demand shock? How does the Taylor rule relate to all of this? If you saw the FED taking certain actions, what does this tell you about what the FED thinks about where we are relative to the ``long-run'' equilibrium.
+
+\end{document}
