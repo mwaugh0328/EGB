@@ -250,6 +250,8 @@ Read/Do for class:
 
 - [AS/AD Practice](https://github.com/mwaugh0328/EGB/raw/master/materials/problem_sets/as_ad_checklist.pdf)
 
+- [Solutions to AS/AD practice](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/as_ad_practice_solutions.pdf) 
+
 - Practice Materials: [Exam.](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/practice_final_egb_2016.pdf) [Exam with Solutions.](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/practice_final_egb_2016_solutions.pdf.pdf) **Warning: This is a slightly different format**
 
 ---
