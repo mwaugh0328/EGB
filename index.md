@@ -250,7 +250,7 @@ Read/Do for class:
 
 - [AS/AD Practice](https://github.com/mwaugh0328/EGB/raw/master/materials/problem_sets/as_ad_checklist.pdf)
 
-- [Solutions to AS/AD practice](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/as_ad_practice_solutions.pdf) 
+- [Solutions to AS/AD practice](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/as_ad_practice_solutions.pdf)
 
 - Practice Materials: [Exam.](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/practice_final_egb_2016.pdf) [Exam with Solutions.](https://github.com/mwaugh0328/EGB/raw/master/materials/practice_material/practice_final_egb_2016_solutions.pdf.pdf) **Warning: This is a slightly different format**
 
@@ -264,6 +264,6 @@ Read/Do for class:
 
 Generally from 230pm to 6pm, Tuesday - Friday.
 
-### Final: 5/21, 8am.
+### Final: 5/21, 8am. Location: [GCASL C95](https://goo.gl/maps/c7exJjC6gn4T56Dz7)
 
 - [Extra Credit](https://github.com/mwaugh0328/EGB/raw/master/materials/problem_sets/egb.ps5.pdf)
